@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.miroonstudio.cn/sitemap-index.xml
