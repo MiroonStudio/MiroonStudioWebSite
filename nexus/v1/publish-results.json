@@ -64,9 +64,9 @@
       "ProductId": "MiroonRuntime.WinX64",
       "Version": "0.1.0-alpha.1",
       "Rid": "win-x64",
-      "ReleaseHash": "24591E58435A4D1430E788B72CE10B5E135431DA090C42B694B1387C69895740",
-      "PackagePath": "packages/MiroonRuntime.WinX64/0.1.0-alpha.1/win-x64/681FC267700BF0C13BADA6828BDC0135A719010CE63BE95C45ABF2411AA1F50D.zip",
-      "ReleaseManifestPath": "releases/MiroonRuntime.WinX64/24591E58435A4D1430E788B72CE10B5E135431DA090C42B694B1387C69895740.json",
+      "ReleaseHash": "71DCC22F1B6F234F013E0110D24D18F20DD49951931BB80AF57CCBB3CC53B5F7",
+      "PackagePath": "packages/MiroonRuntime.WinX64/0.1.0-alpha.1/win-x64/13554919394C0230787F83CF987924B3482D78728370BA4E540F527439C90167.zip",
+      "ReleaseManifestPath": "releases/MiroonRuntime.WinX64/71DCC22F1B6F234F013E0110D24D18F20DD49951931BB80AF57CCBB3CC53B5F7.json",
       "PublicKeyPath": "test-root-public.json",
       "TestOnly": true
     },
@@ -74,9 +74,9 @@
       "ProductId": "MiroonNexus",
       "Version": "0.1.0-alpha.1",
       "Rid": "win-x64",
-      "ReleaseHash": "D54639C8CD74DF70D0AA6379BECE7921636011B502F56A05992F0C81F0F6970D",
-      "PackagePath": "packages/MiroonNexus/0.1.0-alpha.1/win-x64/9352ADB398E72A63F02EF15529BDD91ABB55FB8E228F2BD9CDB5A086C75DCB68.zip",
-      "ReleaseManifestPath": "releases/MiroonNexus/D54639C8CD74DF70D0AA6379BECE7921636011B502F56A05992F0C81F0F6970D.json",
+      "ReleaseHash": "B090E2A34E105BD6EC92F9EE5C655C8F5B08504E5377F6EDC8363F08722C7247",
+      "PackagePath": "packages/MiroonNexus/0.1.0-alpha.1/win-x64/FB70DCF5EF5CA5C86182ABC37C2AAB998592AD8CA95C1E1D3F9E8CE48825D78A.zip",
+      "ReleaseManifestPath": "releases/MiroonNexus/B090E2A34E105BD6EC92F9EE5C655C8F5B08504E5377F6EDC8363F08722C7247.json",
       "PublicKeyPath": "test-root-public.json",
       "TestOnly": true
     },
@@ -84,9 +84,9 @@
       "ProductId": "MiroonEngine.Showcase",
       "Version": "0.1.0-alpha.1",
       "Rid": "win-x64",
-      "ReleaseHash": "28563F9DDAA50E9AFC8FA87ABA07E49365C60C26423B361B1A65897E364C5CDD",
+      "ReleaseHash": "E872B9778D528B0FA0AF4B2DE31FEA56E9758337CD1C7AEA980909A5F9416AA2",
       "PackagePath": "packages/MiroonEngine.Showcase/0.1.0-alpha.1/win-x64/50C9EA14CAF9B2547759D1B9A8597EF2284A6DD1BA31D49B4B74DAC8FD5AA6E3.zip",
-      "ReleaseManifestPath": "releases/MiroonEngine.Showcase/28563F9DDAA50E9AFC8FA87ABA07E49365C60C26423B361B1A65897E364C5CDD.json",
+      "ReleaseManifestPath": "releases/MiroonEngine.Showcase/E872B9778D528B0FA0AF4B2DE31FEA56E9758337CD1C7AEA980909A5F9416AA2.json",
       "PublicKeyPath": "test-root-public.json",
       "TestOnly": true
     }
