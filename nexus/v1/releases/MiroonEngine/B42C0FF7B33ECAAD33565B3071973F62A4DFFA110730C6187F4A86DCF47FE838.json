@@ -1,0 +1,55 @@
+{
+  "Type": "release",
+  "ProductId": "MiroonEngine",
+  "Version": "0.1.0-alpha.1",
+  "ReleaseHash": "B42C0FF7B33ECAAD33565B3071973F62A4DFFA110730C6187F4A86DCF47FE838",
+  "Rid": "win-x64",
+  "EntryPoint": "MiroonEngine.dll",
+  "Dependencies": [
+    {
+      "ProductId": "MiroonRender",
+      "ReleaseHash": "10FDEE32B959A7C7FEBF6912A0C29E0585DFD8810E5015F27B0EB8DECD788E41"
+    },
+    {
+      "ProductId": "MiroonRuntime.Fonts",
+      "ReleaseHash": "5E02223B5B2DEEAE52BAF850866B8EDEA8562DC5CCED2C5E1912BDE955A50E25"
+    },
+    {
+      "ProductId": "MiroonRuntime.Silk",
+      "ReleaseHash": "8BDF53D06A1E392BF7FF51747F5C99C9B0503DCBAFF21265166EB0A7D4880DB7"
+    },
+    {
+      "ProductId": "MiroonRuntime.Skia",
+      "ReleaseHash": "EB6A619880FB6B9B9916C49E1C0A1CC7EC4581EE47C2D41679BEF96B8F7CB3BE"
+    }
+  ],
+  "Files": [
+    {
+      "Path": "MiroonEngine.Graphics2D.dll",
+      "Sha256": "78B59D00915CE9E4B4253EA7380AD30D6571ADB6AF370F89288BECEF3876E97E",
+      "Length": 51712
+    },
+    {
+      "Path": "MiroonEngine.Render.Vulkan.dll",
+      "Sha256": "A89782072983D8E5657A10BAB42D89370C4D0C955F06FA1C587C870CE3737E48",
+      "Length": 68096
+    },
+    {
+      "Path": "MiroonEngine.Text.dll",
+      "Sha256": "B4199F563915A73430BD52750061C199AAC41FA08D93E339FA25228824A1B0B3",
+      "Length": 43520
+    },
+    {
+      "Path": "MiroonEngine.dll",
+      "Sha256": "0093A2681A7C18AD9E66927C1E39B5F807A439CFB02924EF02947EE855CC86E6",
+      "Length": 43520
+    }
+  ],
+  "Packages": [
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonEngine/0.1.0-alpha.1/win-x64/80C35B76A31B434E150DC9E030D95399637BDEFB61F86A34B5857E7535A5043D.zip",
+      "Sha256": "80C35B76A31B434E150DC9E030D95399637BDEFB61F86A34B5857E7535A5043D",
+      "Length": 92483
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "Type": "release",
+  "ProductId": "MiroonRuntime.Silk",
+  "Version": "0.1.0-alpha.1",
+  "ReleaseHash": "8BDF53D06A1E392BF7FF51747F5C99C9B0503DCBAFF21265166EB0A7D4880DB7",
+  "Rid": "win-x64",
+  "EntryPoint": "glfw3.dll",
+  "Dependencies": [],
+  "Files": [
+    {
+      "Path": "Silk.NET.Core.dll",
+      "Sha256": "56E4A018BD9A4E0FB94F97331191DB7E86AF98B0E23082EA36863F146E217A5C",
+      "Length": 310032
+    },
+    {
+      "Path": "Silk.NET.GLFW.dll",
+      "Sha256": "9C3C71D2FE0B01BB4FD00E7047001B99DB8869384B7BA6B9750F389EECE224DC",
+      "Length": 84752
+    },
+    {
+      "Path": "Silk.NET.Input.Common.dll",
+      "Sha256": "4979F2A0AFD682E740C247FB103CDD8368D87381728CF633D3BFA4515C0289D1",
+      "Length": 41232
+    },
+    {
+      "Path": "Silk.NET.Input.Glfw.dll",
+      "Sha256": "43D615B40D28824C7B7EB488E2B891A09ED6353DD3D0D73A366C67ABE8B5270E",
+      "Length": 49424
+    },
+    {
+      "Path": "Silk.NET.Maths.dll",
+      "Sha256": "C3B2B856435A1824F21D0467241F7EF7929980FC11A61D651166CE60828475EB",
+      "Length": 324368
+    },
+    {
+      "Path": "Silk.NET.Vulkan.Extensions.KHR.dll",
+      "Sha256": "BE226E227F8695B714DB140D5F267760C69B2D64A929B10E3D29D2787DD6EDF7",
+      "Length": 445712
+    },
+    {
+      "Path": "Silk.NET.Vulkan.dll",
+      "Sha256": "5A56F1FE4DB712091B6DB94E16B6F7E71049027E48F0EE72E001846F1D7A5F45",
+      "Length": 3251984
+    },
+    {
+      "Path": "Silk.NET.Windowing.Common.dll",
+      "Sha256": "7C80870D5135714DC30EFA71E4ADB0DE9A8C699602CD7E5409D6B21EAA5FAD21",
+      "Length": 54032
+    },
+    {
+      "Path": "Silk.NET.Windowing.Glfw.dll",
+      "Sha256": "62D66480FF7E9973A231C5898E7C293D814558E5E156F59898BA41DB2B98F4A8",
+      "Length": 41744
+    },
+    {
+      "Path": "glfw3.dll",
+      "Sha256": "A107A8E8378527897D5E99F3A53D01A7289EF5FDA564952FBEC2769386ECCD58",
+      "Length": 232960
+    }
+  ],
+  "Packages": [
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonRuntime.Silk/0.1.0-alpha.1/win-x64/691472475C75336A18C92794C2C4B7D74B36349844C6625EAAF50B213F40BFFA.zip",
+      "Sha256": "691472475C75336A18C92794C2C4B7D74B36349844C6625EAAF50B213F40BFFA",
+      "Length": 1362326
+    }
+  ]
+}

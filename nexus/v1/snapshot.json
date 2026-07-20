@@ -1,0 +1,15 @@
+{
+  "Type": "snapshot",
+  "Sequence": 2026072001,
+  "ExpiresUtc": "2026-08-19T05:06:03.6811487+00:00",
+  "Catalog": {
+    "Path": "catalog.json",
+    "Sha256": "35595725AF828169326D3525913D80A5278ECA87BE3235266070D872286927A9",
+    "Length": 4275
+  },
+  "Revocations": {
+    "Path": "revocations.json",
+    "Sha256": "5A3F407273EC80064431A29E459A6D775AAFD370C04B4536D20E0540B51EAA9F",
+    "Length": 141
+  }
+}

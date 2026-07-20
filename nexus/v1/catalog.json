@@ -1,0 +1,106 @@
+{
+  "Type": "catalog",
+  "Sequence": 2026072001,
+  "ExpiresUtc": "2026-08-19T05:06:03.6811487+00:00",
+  "Releases": [
+    {
+      "ProductId": "MiroonEngine",
+      "Version": "0.1.0-alpha.1",
+      "ReleaseHash": "B42C0FF7B33ECAAD33565B3071973F62A4DFFA110730C6187F4A86DCF47FE838",
+      "Manifest": {
+        "Path": "releases/MiroonEngine/B42C0FF7B33ECAAD33565B3071973F62A4DFFA110730C6187F4A86DCF47FE838.json",
+        "Sha256": "3959AE5EF48C9E16CAB977B438419BB3D4C6C7E6A97336B4CC0928B8967E6B56",
+        "Length": 1830
+      },
+      "Rid": "win-x64"
+    },
+    {
+      "ProductId": "MiroonEngine.Showcase",
+      "Version": "0.1.0-alpha.1",
+      "ReleaseHash": "1D8DB8179B3BF7BE3037339A8A02ABE94B41C0B1210F2189D585A5244FEBC1A6",
+      "Manifest": {
+        "Path": "releases/MiroonEngine.Showcase/1D8DB8179B3BF7BE3037339A8A02ABE94B41C0B1210F2189D585A5244FEBC1A6.json",
+        "Sha256": "2C6A7F67F3573356702A83129DF1C6CAB9C5CFE6E3793C606DE32C9771C40A7B",
+        "Length": 1589
+      },
+      "Rid": "win-x64"
+    },
+    {
+      "ProductId": "MiroonNexus",
+      "Version": "0.1.0-alpha.1",
+      "ReleaseHash": "3F16A0723A412546F88E721516132849313DE6EC700B81D6065F986B53CF0676",
+      "Manifest": {
+        "Path": "releases/MiroonNexus/3F16A0723A412546F88E721516132849313DE6EC700B81D6065F986B53CF0676.json",
+        "Sha256": "E5271C94C3B0D89218553630307CA4451055821DDBA8962495891C83ABF5F58E",
+        "Length": 1686
+      },
+      "Rid": "win-x64"
+    },
+    {
+      "ProductId": "MiroonRender",
+      "Version": "1.1.0-alpha.1",
+      "ReleaseHash": "10FDEE32B959A7C7FEBF6912A0C29E0585DFD8810E5015F27B0EB8DECD788E41",
+      "Manifest": {
+        "Path": "releases/MiroonRender/10FDEE32B959A7C7FEBF6912A0C29E0585DFD8810E5015F27B0EB8DECD788E41.json",
+        "Sha256": "06173C820DA068033751F5CBAED31F633F3D5949EFAAA0C0EE2029997276499C",
+        "Length": 746
+      },
+      "Rid": "win-x64"
+    },
+    {
+      "ProductId": "MiroonRuntime.Fonts",
+      "Version": "0.1.0-alpha.1",
+      "ReleaseHash": "5E02223B5B2DEEAE52BAF850866B8EDEA8562DC5CCED2C5E1912BDE955A50E25",
+      "Manifest": {
+        "Path": "releases/MiroonRuntime.Fonts/5E02223B5B2DEEAE52BAF850866B8EDEA8562DC5CCED2C5E1912BDE955A50E25.json",
+        "Sha256": "06CA050992021006CB9BB62EBF3AD922E71BC959838209EC96F40D5E1A77082A",
+        "Length": 2252
+      },
+      "Rid": "win-x64"
+    },
+    {
+      "ProductId": "MiroonRuntime.Silk",
+      "Version": "0.1.0-alpha.1",
+      "ReleaseHash": "8BDF53D06A1E392BF7FF51747F5C99C9B0503DCBAFF21265166EB0A7D4880DB7",
+      "Manifest": {
+        "Path": "releases/MiroonRuntime.Silk/8BDF53D06A1E392BF7FF51747F5C99C9B0503DCBAFF21265166EB0A7D4880DB7.json",
+        "Sha256": "DC14255131C23E01014741541E3C7EE378A96BF460BD632076CE50E3ADBB2770",
+        "Length": 2237
+      },
+      "Rid": "win-x64"
+    },
+    {
+      "ProductId": "MiroonRuntime.Skia",
+      "Version": "0.1.0-alpha.1",
+      "ReleaseHash": "EB6A619880FB6B9B9916C49E1C0A1CC7EC4581EE47C2D41679BEF96B8F7CB3BE",
+      "Manifest": {
+        "Path": "releases/MiroonRuntime.Skia/EB6A619880FB6B9B9916C49E1C0A1CC7EC4581EE47C2D41679BEF96B8F7CB3BE.json",
+        "Sha256": "0027A7F7B35B89AB03AC56D1CCA17E1316C534DAC5F5591E02B72857700C63B9",
+        "Length": 1406
+      },
+      "Rid": "win-x64"
+    },
+    {
+      "ProductId": "MiroonRuntime.WinX64",
+      "Version": "0.1.0-alpha.1",
+      "ReleaseHash": "A2B857A30314CEFE86D396C336E048F9BAB61AA5733D6FD461811ABA88FB656D",
+      "Manifest": {
+        "Path": "releases/MiroonRuntime.WinX64/A2B857A30314CEFE86D396C336E048F9BAB61AA5733D6FD461811ABA88FB656D.json",
+        "Sha256": "C5E241C1349EA6A3F6AB496E04B037DEA515144DB45DB693314C9CC401F7124A",
+        "Length": 32963
+      },
+      "Rid": "win-x64"
+    },
+    {
+      "ProductId": "MiroonUI",
+      "Version": "0.1.0-alpha.1",
+      "ReleaseHash": "C14399CE94A54F91F02A9A6E4EAF3C3285DD2332DACF7B64016AAD0B070D8DBF",
+      "Manifest": {
+        "Path": "releases/MiroonUI/C14399CE94A54F91F02A9A6E4EAF3C3285DD2332DACF7B64016AAD0B070D8DBF.json",
+        "Sha256": "540D5E7FC735FEEB37BC35622CB674136958AD70CDB80C74674B30F7B4A1FB0B",
+        "Length": 871
+      },
+      "Rid": "win-x64"
+    }
+  ]
+}

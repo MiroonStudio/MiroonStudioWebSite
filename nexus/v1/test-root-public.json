@@ -1,0 +1,10 @@
+{
+  "Algorithm": "ECDSA-P256-SHA256",
+  "TestOnly": true,
+  "Keys": [
+    {
+      "KeyId": "alpha-root-2026",
+      "SubjectPublicKeyInfoBase64": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE\u002Bvd3NTp7hTdagRxlkvAX5c0C2hLNebmSmrHC7oAmI4H\u002BNX4hg8oAFBmKdcb2nvroERRBGNIYvfHZrLv72muhLQ=="
+    }
+  ]
+}
