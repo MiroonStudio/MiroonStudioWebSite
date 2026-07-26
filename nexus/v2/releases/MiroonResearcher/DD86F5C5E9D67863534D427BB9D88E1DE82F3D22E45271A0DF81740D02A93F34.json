@@ -1,0 +1,47 @@
+{
+  "Type": "release",
+  "ProductId": "MiroonResearcher",
+  "Version": "0.1.1-alpha.2",
+  "ReleaseHash": "DD86F5C5E9D67863534D427BB9D88E1DE82F3D22E45271A0DF81740D02A93F34",
+  "Rid": "win-x64",
+  "EntryPoint": "MiroonResearcher.exe",
+  "Dependencies": [
+    {
+      "ProductId": "MiroonRuntime.WinX64",
+      "ReleaseHash": "A6DEF379C206089FAA8036DBF6AB1693550EAECE31CABC792C916A640DF551A8"
+    },
+    {
+      "ProductId": "MiroonUI",
+      "ReleaseHash": "9F712592A9ECC43AE9D65A613A5D47D2D91CF06E46FE5A5E44699E2F3F76913C"
+    }
+  ],
+  "Files": [
+    {
+      "Path": "MiroonResearcher.deps.json",
+      "Sha256": "59605FF0E32BD6DD415B0AB1628CD6657EC5724578FF6D118619992FF7FF0350",
+      "Length": 42940
+    },
+    {
+      "Path": "MiroonResearcher.dll",
+      "Sha256": "87B0664918639C3532282CAB8E037B6AB070A1490847BB8A0C0CC4C04828F43B",
+      "Length": 878080
+    },
+    {
+      "Path": "MiroonResearcher.exe",
+      "Sha256": "B587CE2F1F164AFF3A1784E6AF55DE72ED633ED45C56E6668982D136603FDC38",
+      "Length": 192000
+    },
+    {
+      "Path": "MiroonResearcher.runtimeconfig.json",
+      "Sha256": "FB1B48E161EABB7F3308F99D995E711B241B52171B0CA497756BEFFA852501B0",
+      "Length": 431
+    }
+  ],
+  "Packages": [
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonResearcher/0.1.1-alpha.2/win-x64/DBFC0E2B53C630761597319626C1F207492FB49AF46C3CD28DD4FA6ED1DCD5F9.zip",
+      "Sha256": "DBFC0E2B53C630761597319626C1F207492FB49AF46C3CD28DD4FA6ED1DCD5F9",
+      "Length": 461917
+    }
+  ]
+}

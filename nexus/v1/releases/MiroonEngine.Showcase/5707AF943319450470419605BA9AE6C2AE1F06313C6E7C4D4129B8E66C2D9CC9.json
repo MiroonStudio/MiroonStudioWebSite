@@ -1,0 +1,47 @@
+{
+  "Type": "release",
+  "ProductId": "MiroonEngine.Showcase",
+  "Version": "0.1.1-alpha.2",
+  "ReleaseHash": "5707AF943319450470419605BA9AE6C2AE1F06313C6E7C4D4129B8E66C2D9CC9",
+  "Rid": "win-x64",
+  "EntryPoint": "MiroonEngine.Showcase.exe",
+  "Dependencies": [
+    {
+      "ProductId": "MiroonRuntime.WinX64",
+      "ReleaseHash": "A6DEF379C206089FAA8036DBF6AB1693550EAECE31CABC792C916A640DF551A8"
+    },
+    {
+      "ProductId": "MiroonUI",
+      "ReleaseHash": "9F712592A9ECC43AE9D65A613A5D47D2D91CF06E46FE5A5E44699E2F3F76913C"
+    }
+  ],
+  "Files": [
+    {
+      "Path": "MiroonEngine.Showcase.deps.json",
+      "Sha256": "62E1668072F7665932FFBE53EDF6FC7A4E65979DAD0526C13BD649E0292BD428",
+      "Length": 42920
+    },
+    {
+      "Path": "MiroonEngine.Showcase.dll",
+      "Sha256": "42117DAB2C5B29677DDFEE786033A5BB3772199CA13EDD0EE3D1BDB6CB4C7381",
+      "Length": 60928
+    },
+    {
+      "Path": "MiroonEngine.Showcase.exe",
+      "Sha256": "EFB08F0CB6F2A8C64460039D70D5F6AAD218CEF08B81E977C91532C62A695F59",
+      "Length": 162816
+    },
+    {
+      "Path": "MiroonEngine.Showcase.runtimeconfig.json",
+      "Sha256": "555C1FF1B1FDA2619A3573046B9EB34D2D781AC96B60E29626016E232389D027",
+      "Length": 374
+    }
+  ],
+  "Packages": [
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonEngine.Showcase/0.1.1-alpha.2/win-x64/6B5C510D9D46D8895FB0F8F0E2BD63C24894972B772C94F14835421E19BFAC67.zip",
+      "Sha256": "6B5C510D9D46D8895FB0F8F0E2BD63C24894972B772C94F14835421E19BFAC67",
+      "Length": 103243
+    }
+  ]
+}

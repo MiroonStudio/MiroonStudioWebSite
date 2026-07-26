@@ -1,0 +1,10 @@
+{
+  "Type": "release-notes",
+  "ProductId": "MiroonRuntime.Silk",
+  "Version": "0.1.1-alpha.2",
+  "ReleaseHash": "B2439DB970DC1A771C1DA6D0B572552C566376D3D6B498B723B5757A402A54BB",
+  "Summary": "MiroonRuntime.Silk 0.1.1-alpha.2",
+  "Changes": [],
+  "CompatibilityNotes": [],
+  "MigrationNotes": []
+}

@@ -1,0 +1,10 @@
+{
+  "ProductId": "MiroonRender",
+  "Version": "1.1.0-alpha.1",
+  "Rid": "win-x64",
+  "ReleaseHash": "10FDEE32B959A7C7FEBF6912A0C29E0585DFD8810E5015F27B0EB8DECD788E41",
+  "PackagePath": "packages/MiroonRender/1.1.0-alpha.1/win-x64/456F180AA937E187B97ADA8FB28BA94FF7006003BCA974DABCD00B83D174AB4A.zip",
+  "ReleaseManifestPath": "releases/MiroonRender/10FDEE32B959A7C7FEBF6912A0C29E0585DFD8810E5015F27B0EB8DECD788E41.json",
+  "PublicKeyPath": "test-root-public.json",
+  "TestOnly": true
+}
