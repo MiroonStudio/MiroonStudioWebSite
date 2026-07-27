@@ -1,0 +1,10 @@
+{
+  "Type": "release-notes",
+  "ProductId": "MiroonRuntime.Skia",
+  "Version": "0.1.1-alpha.4",
+  "ReleaseHash": "6361FD7308045E6DF0AA51E684291F386F851E4F249F2A81B61506AC3539A62E",
+  "Summary": "MiroonRuntime.Skia 0.1.1-alpha.4",
+  "Changes": [],
+  "CompatibilityNotes": [],
+  "MigrationNotes": []
+}
