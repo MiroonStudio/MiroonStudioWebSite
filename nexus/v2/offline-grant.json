@@ -2,8 +2,8 @@
   "Type": "offline-grant",
   "SchemaVersion": 1,
   "Rid": "win-x64",
-  "CreatedUtc": "2026-07-27T05:48:56.7694523+00:00",
-  "ExpiresUtc": "2026-08-26T05:48:31.4453696+00:00",
+  "CreatedUtc": "2026-07-27T06:42:43.5788698+00:00",
+  "ExpiresUtc": "2026-08-26T06:42:21.5107644+00:00",
   "Releases": [
     {
       "ProductId": "MiroonEngine",
@@ -15,7 +15,7 @@
     },
     {
       "ProductId": "MiroonNexus",
-      "ReleaseHash": "50474708505A39FFED82F17232310AF04A6BB363703F8F709C5BD6E8A544BD1E"
+      "ReleaseHash": "5CA14D241A668FEAD02F442D5FBBC1E8EFE8076A3F911B86BB89E62793644E95"
     },
     {
       "ProductId": "MiroonRender",
@@ -23,7 +23,7 @@
     },
     {
       "ProductId": "MiroonResearcher",
-      "ReleaseHash": "4C390CFEEE79E6AA267C50E1B20E932FE79A5FEDE71C51655707847CA5D7BAA6"
+      "ReleaseHash": "EEFC1A1299C38A7052880294ACD255C3A98532C19C0CF1997E189DB17E47B266"
     },
     {
       "ProductId": "MiroonRuntime.Fonts",
