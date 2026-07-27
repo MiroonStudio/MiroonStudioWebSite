@@ -1,7 +1,7 @@
 {
   "Type": "catalog",
-  "Sequence": 2026072702,
-  "ExpiresUtc": "2026-08-26T02:18:38.7537457+00:00",
+  "Sequence": 2026072703,
+  "ExpiresUtc": "2026-08-26T05:38:08.0576536+00:00",
   "Releases": [
     {
       "ProductId": "MiroonEngine",
@@ -27,11 +27,11 @@
     },
     {
       "ProductId": "MiroonNexus",
-      "Version": "0.1.1-alpha.4",
-      "ReleaseHash": "18A26D6CAFC6E19C1E40F16B2ECE80A5637E382075F2FC247D1AAA5005140CD7",
+      "Version": "0.1.1-alpha.5",
+      "ReleaseHash": "660B99BF35A09FD712EB4DBB80F6612A0A0DD3B1B962E5953D45C60FDA1D5F3C",
       "Manifest": {
-        "Path": "releases/MiroonNexus/18A26D6CAFC6E19C1E40F16B2ECE80A5637E382075F2FC247D1AAA5005140CD7.json",
-        "Sha256": "8C52F4D10154356797605620AC7E7B7628C74CF5AD44751B9F3618362AFE8E77",
+        "Path": "releases/MiroonNexus/660B99BF35A09FD712EB4DBB80F6612A0A0DD3B1B962E5953D45C60FDA1D5F3C.json",
+        "Sha256": "C42BD6F960234C1323651A3EB7EEB4160935CFAC163A68F666C4C1F4B234C451",
         "Length": 1686
       },
       "Rid": "win-x64"

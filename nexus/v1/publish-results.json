@@ -72,11 +72,11 @@
     },
     {
       "ProductId": "MiroonNexus",
-      "Version": "0.1.1-alpha.4",
+      "Version": "0.1.1-alpha.5",
       "Rid": "win-x64",
-      "ReleaseHash": "18A26D6CAFC6E19C1E40F16B2ECE80A5637E382075F2FC247D1AAA5005140CD7",
-      "PackagePath": "packages/MiroonNexus/0.1.1-alpha.4/win-x64/AE878229F301819E7AC9FA766A65A65C13ECE24016E2D42EAD4E0BFF4B8BF271.zip",
-      "ReleaseManifestPath": "releases/MiroonNexus/18A26D6CAFC6E19C1E40F16B2ECE80A5637E382075F2FC247D1AAA5005140CD7.json",
+      "ReleaseHash": "660B99BF35A09FD712EB4DBB80F6612A0A0DD3B1B962E5953D45C60FDA1D5F3C",
+      "PackagePath": "packages/MiroonNexus/0.1.1-alpha.5/win-x64/3DDED6410CC9E740E3F845CB71EBF5EA4DDB466AFFCA1E2CC20895EE2ED84397.zip",
+      "ReleaseManifestPath": "releases/MiroonNexus/660B99BF35A09FD712EB4DBB80F6612A0A0DD3B1B962E5953D45C60FDA1D5F3C.json",
       "PublicKeyPath": "test-root-public.json",
       "TestOnly": true
     },

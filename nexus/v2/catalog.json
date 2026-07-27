@@ -1,8 +1,8 @@
 {
   "Type": "catalog",
   "SchemaVersion": 2,
-  "Sequence": 2026072702,
-  "ExpiresUtc": "2026-08-26T02:18:38.7537457+00:00",
+  "Sequence": 2026072703,
+  "ExpiresUtc": "2026-08-26T05:38:08.0576536+00:00",
   "Releases": [
     {
       "ProductId": "MiroonEngine",
@@ -46,19 +46,19 @@
     },
     {
       "ProductId": "MiroonNexus",
-      "Version": "0.1.1-alpha.4",
-      "ReleaseHash": "18A26D6CAFC6E19C1E40F16B2ECE80A5637E382075F2FC247D1AAA5005140CD7",
+      "Version": "0.1.1-alpha.5",
+      "ReleaseHash": "660B99BF35A09FD712EB4DBB80F6612A0A0DD3B1B962E5953D45C60FDA1D5F3C",
       "Manifest": {
-        "Path": "releases/MiroonNexus/18A26D6CAFC6E19C1E40F16B2ECE80A5637E382075F2FC247D1AAA5005140CD7.json",
-        "Sha256": "8C52F4D10154356797605620AC7E7B7628C74CF5AD44751B9F3618362AFE8E77",
+        "Path": "releases/MiroonNexus/660B99BF35A09FD712EB4DBB80F6612A0A0DD3B1B962E5953D45C60FDA1D5F3C.json",
+        "Sha256": "C42BD6F960234C1323651A3EB7EEB4160935CFAC163A68F666C4C1F4B234C451",
         "Length": 1686
       },
       "Rid": "win-x64",
       "Channel": 1,
-      "PublishedUtc": "2026-07-27T02:18:46.2761019+00:00",
+      "PublishedUtc": "2026-07-27T05:38:30.3050328+00:00",
       "ReleaseNotes": {
-        "Path": "release-notes/MiroonNexus/18A26D6CAFC6E19C1E40F16B2ECE80A5637E382075F2FC247D1AAA5005140CD7.json",
-        "Sha256": "F80E28C5FE225007B013DEF0D0601BA0A7D793FE12C91BF612DE55D069A3078D",
+        "Path": "release-notes/MiroonNexus/660B99BF35A09FD712EB4DBB80F6612A0A0DD3B1B962E5953D45C60FDA1D5F3C.json",
+        "Sha256": "9EB05193AFFF8FC7335B0027D65E8565092F937650815A41D52FD6A77AA0D871",
         "Length": 294
       },
       "MinimumLauncherVersion": "0.1.1-alpha.1",

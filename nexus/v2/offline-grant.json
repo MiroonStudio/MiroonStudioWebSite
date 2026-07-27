@@ -2,8 +2,8 @@
   "Type": "offline-grant",
   "SchemaVersion": 1,
   "Rid": "win-x64",
-  "CreatedUtc": "2026-07-27T02:18:46.2761019+00:00",
-  "ExpiresUtc": "2026-08-26T02:18:38.7537457+00:00",
+  "CreatedUtc": "2026-07-27T05:38:30.3050328+00:00",
+  "ExpiresUtc": "2026-08-26T05:38:08.0576536+00:00",
   "Releases": [
     {
       "ProductId": "MiroonEngine",
@@ -15,7 +15,7 @@
     },
     {
       "ProductId": "MiroonNexus",
-      "ReleaseHash": "18A26D6CAFC6E19C1E40F16B2ECE80A5637E382075F2FC247D1AAA5005140CD7"
+      "ReleaseHash": "660B99BF35A09FD712EB4DBB80F6612A0A0DD3B1B962E5953D45C60FDA1D5F3C"
     },
     {
       "ProductId": "MiroonRender",
