@@ -1,0 +1,10 @@
+{
+  "Type": "release-notes",
+  "ProductId": "MiroonRuntime.WinX64",
+  "Version": "0.1.1-alpha.3",
+  "ReleaseHash": "BDD23E5CD540843CAE0F80EC7C9CF165500F30A417120F9B0BBD60FA4A932617",
+  "Summary": "MiroonRuntime.WinX64 0.1.1-alpha.3",
+  "Changes": [],
+  "CompatibilityNotes": [],
+  "MigrationNotes": []
+}

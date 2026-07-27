@@ -1,0 +1,52 @@
+{
+  "Type": "release",
+  "ProductId": "MiroonNexus",
+  "Version": "0.1.1-alpha.3",
+  "ReleaseHash": "08C2D82E968AFD548809D7C7377C02B032D1E516CB4B3107DCE623ECAEB31DA4",
+  "Rid": "win-x64",
+  "EntryPoint": "MiroonNexus.exe",
+  "Dependencies": [
+    {
+      "ProductId": "MiroonRuntime.WinX64",
+      "ReleaseHash": "BDD23E5CD540843CAE0F80EC7C9CF165500F30A417120F9B0BBD60FA4A932617"
+    },
+    {
+      "ProductId": "MiroonUI",
+      "ReleaseHash": "BFE6CE748BF669C75F9B7A8949ACBA5C5242F863EABD1245A3565476ADA45F74"
+    }
+  ],
+  "Files": [
+    {
+      "Path": "Miroon.Distribution.dll",
+      "Sha256": "5A06C1F092E800E645A400561A437A3E04518BA75ACF7F136679582DDF90BBF1",
+      "Length": 509440
+    },
+    {
+      "Path": "MiroonNexus.deps.json",
+      "Sha256": "957B3A8E8C0B25EE58F070F8606D7D82A230EFAAB41698B34A97BF705ECFDFDF",
+      "Length": 43267
+    },
+    {
+      "Path": "MiroonNexus.dll",
+      "Sha256": "7779EC7FFBDAD1BCAFFCEC9EC3DDC94246009B4468CB45F5255E4C5996417AB0",
+      "Length": 510976
+    },
+    {
+      "Path": "MiroonNexus.exe",
+      "Sha256": "004EEF3C10AA06BEDFE4967A5E1A8D685922E815E6B4E5FE0F66FED12CD6D92B",
+      "Length": 192000
+    },
+    {
+      "Path": "MiroonNexus.runtimeconfig.json",
+      "Sha256": "555C1FF1B1FDA2619A3573046B9EB34D2D781AC96B60E29626016E232389D027",
+      "Length": 374
+    }
+  ],
+  "Packages": [
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonNexus/0.1.1-alpha.3/win-x64/9ED2344622EC36E1B602B4105457E23832510B031B563C6A66DDF399E15CEC75.zip",
+      "Sha256": "9ED2344622EC36E1B602B4105457E23832510B031B563C6A66DDF399E15CEC75",
+      "Length": 506226
+    }
+  ]
+}

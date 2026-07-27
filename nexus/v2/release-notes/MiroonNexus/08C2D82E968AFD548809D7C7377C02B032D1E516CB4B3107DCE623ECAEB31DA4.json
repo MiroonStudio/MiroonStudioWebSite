@@ -1,0 +1,10 @@
+{
+  "Type": "release-notes",
+  "ProductId": "MiroonNexus",
+  "Version": "0.1.1-alpha.3",
+  "ReleaseHash": "08C2D82E968AFD548809D7C7377C02B032D1E516CB4B3107DCE623ECAEB31DA4",
+  "Summary": "MiroonNexus 0.1.1-alpha.3",
+  "Changes": [],
+  "CompatibilityNotes": [],
+  "MigrationNotes": []
+}

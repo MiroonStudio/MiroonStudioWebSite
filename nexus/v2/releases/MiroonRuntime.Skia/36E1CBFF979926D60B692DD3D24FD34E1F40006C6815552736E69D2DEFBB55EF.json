@@ -1,0 +1,43 @@
+{
+  "Type": "release",
+  "ProductId": "MiroonRuntime.Skia",
+  "Version": "0.1.1-alpha.3",
+  "ReleaseHash": "36E1CBFF979926D60B692DD3D24FD34E1F40006C6815552736E69D2DEFBB55EF",
+  "Rid": "win-x64",
+  "EntryPoint": "HarfBuzzSharp.dll",
+  "Dependencies": [],
+  "Files": [
+    {
+      "Path": "HarfBuzzSharp.dll",
+      "Sha256": "3981A2069837301E1A8CF8065C53A08AA9AB0DEB79D764B925B4BF22781273B2",
+      "Length": 130912
+    },
+    {
+      "Path": "SkiaSharp.HarfBuzz.dll",
+      "Sha256": "13535F2F25C2CAA8421A94DBCD5D0C71AEC7C79E6F6F0B1B614BBC8926CFC73A",
+      "Length": 24928
+    },
+    {
+      "Path": "SkiaSharp.dll",
+      "Sha256": "948B5569F2BCD47D4511A465091DBD00BF941EE0F8F3C495D511F5A2FF0703CA",
+      "Length": 526176
+    },
+    {
+      "Path": "libHarfBuzzSharp.dll",
+      "Sha256": "605D533007E484B65D48D36E1941D34426AE601FF28A3795795641086E93E935",
+      "Length": 2038112
+    },
+    {
+      "Path": "libSkiaSharp.dll",
+      "Sha256": "C8770C219E0D3CD9BB119FAD46F2D00AE1855B11315816E86E909E3332826212",
+      "Length": 12254048
+    }
+  ],
+  "Packages": [
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonRuntime.Skia/0.1.1-alpha.3/win-x64/8162F9565446450484395E560718A68BE7C73B747AA0A31F8D152B97B95EE9EC.zip",
+      "Sha256": "8162F9565446450484395E560718A68BE7C73B747AA0A31F8D152B97B95EE9EC",
+      "Length": 6515980
+    }
+  ]
+}
