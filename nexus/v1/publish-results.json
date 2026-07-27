@@ -92,11 +92,11 @@
     },
     {
       "ProductId": "MiroonResearcher",
-      "Version": "0.1.1-alpha.6",
+      "Version": "0.1.1-alpha.7",
       "Rid": "win-x64",
-      "ReleaseHash": "EEFC1A1299C38A7052880294ACD255C3A98532C19C0CF1997E189DB17E47B266",
-      "PackagePath": "packages/MiroonResearcher/0.1.1-alpha.6/win-x64/DA1135E8B00DFFB593BABA6CC5ECA8A4D172F00485F21A0C125BC0DB8AB5C086.zip",
-      "ReleaseManifestPath": "releases/MiroonResearcher/EEFC1A1299C38A7052880294ACD255C3A98532C19C0CF1997E189DB17E47B266.json",
+      "ReleaseHash": "5B1354585E1F773CD1A4D786532B1C2193AEF0DA87BDEE4689651EB3835FCA88",
+      "PackagePath": "packages/MiroonResearcher/0.1.1-alpha.7/win-x64/0CA36B0F0EB518C104EE5558F58E57CD31623EA9DEFEE957631A8AF0B4F9CF43.zip",
+      "ReleaseManifestPath": "releases/MiroonResearcher/5B1354585E1F773CD1A4D786532B1C2193AEF0DA87BDEE4689651EB3835FCA88.json",
       "PublicKeyPath": "test-root-public.json",
       "TestOnly": true
     }

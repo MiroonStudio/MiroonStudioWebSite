@@ -1,8 +1,8 @@
 {
   "Type": "catalog",
   "SchemaVersion": 2,
-  "Sequence": 2026072705,
-  "ExpiresUtc": "2026-08-26T06:42:21.5107644+00:00",
+  "Sequence": 2026072706,
+  "ExpiresUtc": "2026-08-26T06:53:17.4977153+00:00",
   "Releases": [
     {
       "ProductId": "MiroonEngine",
@@ -86,20 +86,20 @@
     },
     {
       "ProductId": "MiroonResearcher",
-      "Version": "0.1.1-alpha.6",
-      "ReleaseHash": "EEFC1A1299C38A7052880294ACD255C3A98532C19C0CF1997E189DB17E47B266",
+      "Version": "0.1.1-alpha.7",
+      "ReleaseHash": "5B1354585E1F773CD1A4D786532B1C2193AEF0DA87BDEE4689651EB3835FCA88",
       "Manifest": {
-        "Path": "releases/MiroonResearcher/EEFC1A1299C38A7052880294ACD255C3A98532C19C0CF1997E189DB17E47B266.json",
-        "Sha256": "EB94B7BD291DFC52F2CD1CB671B3674CB0BC7FCA69F9B29AFE6C4FF6DBF5EC6B",
-        "Length": 1555
+        "Path": "releases/MiroonResearcher/5B1354585E1F773CD1A4D786532B1C2193AEF0DA87BDEE4689651EB3835FCA88.json",
+        "Sha256": "8C6DF6531060CDDD9F12AB774548F23632404CB23A4391546E6C2EE8E0C90A79",
+        "Length": 1556
       },
       "Rid": "win-x64",
       "Channel": 1,
-      "PublishedUtc": "2026-07-27T06:42:43.5788698+00:00",
+      "PublishedUtc": "2026-07-27T06:53:37.8710639+00:00",
       "ReleaseNotes": {
-        "Path": "release-notes/MiroonResearcher/EEFC1A1299C38A7052880294ACD255C3A98532C19C0CF1997E189DB17E47B266.json",
-        "Sha256": "81DAD40655831AD5C167B53F3133BAAE92E7C8BE4EB19E6B2819C05515ADD8B7",
-        "Length": 1715
+        "Path": "release-notes/MiroonResearcher/5B1354585E1F773CD1A4D786532B1C2193AEF0DA87BDEE4689651EB3835FCA88.json",
+        "Sha256": "8572F7772E5F068001E92A22F0FAD28B15A07A7FB32F6DD321F53EF6EC215DC1",
+        "Length": 1606
       },
       "MinimumLauncherVersion": "0.1.1-alpha.1",
       "UpdateMode": 0
