@@ -1,0 +1,12 @@
+Miroon Workstation uses Live2D Cubism Web Framework 5-r.5.
+
+Framework source:
+https://github.com/Live2D/CubismWebFramework/tree/5-r.5
+
+The framework is used under the Live2D Open Software License:
+https://www.live2d.com/eula/live2d-open-software-license-agreement_en.html
+
+Live2D Cubism Core for Web is proprietary software and is not included in this
+source checkout. It must be obtained from the official Cubism SDK for Web
+download and used in accordance with the applicable Live2D license:
+https://www.live2d.com/en/sdk/download/web/
