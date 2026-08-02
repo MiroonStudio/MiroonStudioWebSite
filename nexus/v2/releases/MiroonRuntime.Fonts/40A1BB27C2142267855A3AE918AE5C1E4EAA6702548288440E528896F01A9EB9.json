@@ -1,0 +1,33 @@
+{
+  "Type": "release",
+  "ProductId": "MiroonRuntime.Fonts",
+  "Version": "0.2.0-alpha.4",
+  "ReleaseHash": "40A1BB27C2142267855A3AE918AE5C1E4EAA6702548288440E528896F01A9EB9",
+  "Rid": "win-x64",
+  "EntryPoint": "Assets/Fonts/HarmonyOS_Sans_SC_Medium.ttf",
+  "Dependencies": [],
+  "Files": [
+    {
+      "Path": "Assets/Fonts/HarmonyOS_Sans_SC_Medium.ttf",
+      "Sha256": "6ED1553EDCCDDC48EB27FF25D134A4A715CF54211238D4840B3038576CBA1944",
+      "Length": 8227312
+    },
+    {
+      "Path": "Assets/Fonts/Licenses/HarmonyOS-Sans-License.txt",
+      "Sha256": "327E0147D4A3CA2D89E81ABCE45B210576B0F9FE2B29D900F64B58039F12A102",
+      "Length": 3352
+    },
+    {
+      "Path": "Assets/Fonts/SOURCES.json",
+      "Sha256": "F836DC9F6026DC3CF154CDF5FDFF278024FC36F229F0DFCCDFE73396DFCD328A",
+      "Length": 839
+    }
+  ],
+  "Packages": [
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonRuntime.Fonts/0.2.0-alpha.4/win-x64/1BFAB81A87A711A4BFD5AECBE3CD24EF2B188E6EAE33976434B8BB2477FBFA2A.zip",
+      "Sha256": "1BFAB81A87A711A4BFD5AECBE3CD24EF2B188E6EAE33976434B8BB2477FBFA2A",
+      "Length": 5641145
+    }
+  ]
+}

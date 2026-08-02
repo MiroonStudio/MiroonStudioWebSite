@@ -1,10 +1,10 @@
 {
   "Type": "timestamp",
-  "Sequence": 2026080202,
-  "ExpiresUtc": "2026-09-01T09:05:10.783745+00:00",
+  "Sequence": 2026080203,
+  "ExpiresUtc": "2026-09-01T09:13:33.3549482+00:00",
   "Snapshot": {
     "Path": "snapshot.json",
-    "Sha256": "C24958F822558AF8B9C2E8AF32D722DF3E2EADABED794BD7986230011E27D42C",
-    "Length": 421
+    "Sha256": "1C0B06792C6D5A529F84FAFDC2378BE54EB795A696ACCA1958C5A6EE2399B159",
+    "Length": 422
   }
 }

@@ -1,0 +1,10 @@
+{
+  "Type": "release-notes",
+  "ProductId": "MiroonEngine",
+  "Version": "0.2.0-alpha.4",
+  "ReleaseHash": "316522D084C4C93C3FFDB2ED79C4A021CA922245CE99DDF5D7FE81BE5D2504B6",
+  "Summary": "MiroonEngine 0.2.0-alpha.4",
+  "Changes": [],
+  "CompatibilityNotes": [],
+  "MigrationNotes": []
+}

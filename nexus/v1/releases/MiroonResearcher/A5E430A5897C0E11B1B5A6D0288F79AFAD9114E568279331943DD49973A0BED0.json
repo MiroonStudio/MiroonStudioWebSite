@@ -1,0 +1,352 @@
+{
+  "Type": "release",
+  "ProductId": "MiroonResearcher",
+  "Version": "0.2.0-alpha.4",
+  "ReleaseHash": "A5E430A5897C0E11B1B5A6D0288F79AFAD9114E568279331943DD49973A0BED0",
+  "Rid": "win-x64",
+  "EntryPoint": "MiroonIDE.exe",
+  "Dependencies": [
+    {
+      "ProductId": "MiroonRuntime.WinX64",
+      "ReleaseHash": "69C904D66366637B894498E9013AD603EB9D07DF843BDA5AA790BF63CD270DDD"
+    },
+    {
+      "ProductId": "MiroonUI",
+      "ReleaseHash": "AE06E56ED5CEC2AB83813113041DC270F4C2D584D2D826603F843B9E9FE75911"
+    }
+  ],
+  "Files": [
+    {
+      "Path": "Compatibility/MiroonResearcher/MiroonResearcher.exe",
+      "Sha256": "2466714DB3A20C6724EB0E40420D8806F0BD2B914B48F3C702C1870A1B3C517C",
+      "Length": 1810944
+    },
+    {
+      "Path": "Miroon.IDE.Core.dll",
+      "Sha256": "0C635B529F6FBCB2D2CFB4D8EAEB524E7F0C18D4ABB8FCF6FFFB43CD4F4300E7",
+      "Length": 245760
+    },
+    {
+      "Path": "Miroon.IDE.Editor.dll",
+      "Sha256": "3AF82C7EEA627E6CD5A69A66D94CE08FF4DD10D7AC966B5840FB82FC93AC8334",
+      "Length": 68608
+    },
+    {
+      "Path": "Miroon.IDE.SDK.dll",
+      "Sha256": "36021595D4AE8C4C62EC63F54E4D8B00C54EE71107B4913374A4CF3C63899719",
+      "Length": 114688
+    },
+    {
+      "Path": "Miroon.IDE.UI.SDK.dll",
+      "Sha256": "368F787C2E1252F78E78B8B1A8B4941181559CAB968E1334E0A15C303F855FFC",
+      "Length": 50176
+    },
+    {
+      "Path": "Miroon.IDE.Workbench.dll",
+      "Sha256": "122812670CD82C2021BBE39466C8392BA4951493135E48ABBFC3D43950556A4B",
+      "Length": 228352
+    },
+    {
+      "Path": "Miroon.IDE.Worker.Protocol.dll",
+      "Sha256": "1FA8224711D47720F36A1139C4E14352600BE8DC68C8108937448B8E34E5FB94",
+      "Length": 85504
+    },
+    {
+      "Path": "MiroonIDE.deps.json",
+      "Sha256": "EECCC09A658CFA309910FEB013B19F807B7EBD46A633C92D3300557C8BF2642E",
+      "Length": 50950
+    },
+    {
+      "Path": "MiroonIDE.dll",
+      "Sha256": "097A1E5CD7E7B9D6170D7DD223597AFCA49ECEF202011B172C85B7B9C9ADB1AC",
+      "Length": 250880
+    },
+    {
+      "Path": "MiroonIDE.exe",
+      "Sha256": "E4BE8F5D30EC4FF3DD6130319F5BAFA2F44F5B24A73BF7FD953982B61E47F358",
+      "Length": 192000
+    },
+    {
+      "Path": "MiroonIDE.runtimeconfig.json",
+      "Sha256": "FB1B48E161EABB7F3308F99D995E711B241B52171B0CA497756BEFFA852501B0",
+      "Length": 431
+    },
+    {
+      "Path": "Newtonsoft.Json.dll",
+      "Sha256": "22C649F75FCE5BE7C7CCDA8880473B634EF69ECF33F5D1AB8AD892CAF47D5A07",
+      "Length": 712464
+    },
+    {
+      "Path": "NuGet.Common.dll",
+      "Sha256": "2486B7D4B891D509C92C45913DECF1C58BD0B762E85A116577F181AA632EA629",
+      "Length": 108576
+    },
+    {
+      "Path": "NuGet.Configuration.dll",
+      "Sha256": "69F2F90C3298B068101986F8D0E468B9C7CD37ACF26EAFAD3201710E608914CA",
+      "Length": 172104
+    },
+    {
+      "Path": "NuGet.Frameworks.dll",
+      "Sha256": "80528B5F0C5482A33866669D460DF7120C1B1A135E38D3337FA31207BA0398BB",
+      "Length": 122912
+    },
+    {
+      "Path": "NuGet.Packaging.dll",
+      "Sha256": "05A065ACAFAF18C02C5ABB44542EB838F0A6516A7FB17B79A077E4F42A5B0EDA",
+      "Length": 728096
+    },
+    {
+      "Path": "NuGet.Versioning.dll",
+      "Sha256": "457F94606721F8534623B572CDE896050750357DA0172D139FAA25DEFD5042C8",
+      "Length": 62024
+    },
+    {
+      "Path": "Profiles/ide.json",
+      "Sha256": "3DDA4532738F84C6228F100E2843621A168C2DAB70813F9F7365F72286AE3499",
+      "Length": 152
+    },
+    {
+      "Path": "Profiles/researcher.json",
+      "Sha256": "CCA4B0CD098FC68F460B558D5ED8946A3E8B2F3655A7F6C3CA8FD0D810FF0FB7",
+      "Length": 915
+    },
+    {
+      "Path": "Suites/miroon.git/Miroon.Module.Git.nuspec",
+      "Sha256": "F52A5C2298CB0118F3487ED5C8EF21798A8AE43AB793D0A3217E8476387F0DAB",
+      "Length": 504
+    },
+    {
+      "Path": "Suites/miroon.git/catalog/catalog.v1.json",
+      "Sha256": "E5853BE17D9C88ED7864CA6DDD64405E8787C59E4C136F514340DCBF17AA768F",
+      "Length": 337
+    },
+    {
+      "Path": "Suites/miroon.git/catalog/contributions.v1.json",
+      "Sha256": "671C3CD60B03D3BB46A59E99FC61466F5C5E3978BECB68C2B93FEE38A1370A61",
+      "Length": 2279
+    },
+    {
+      "Path": "Suites/miroon.git/catalog/localization.en-US.v1.json",
+      "Sha256": "846A81E3E6021B39897980D36048596D8F97327F6693FCB3F7591685A18E0581",
+      "Length": 937
+    },
+    {
+      "Path": "Suites/miroon.git/catalog/localization.zh-Hans.v1.json",
+      "Sha256": "E59CA9D990FC2BEE5E0FF342FE2E524CF291A23127B67F73CAAC8B41625D8367",
+      "Length": 1049
+    },
+    {
+      "Path": "Suites/miroon.git/catalog/source-map.v1.json",
+      "Sha256": "9CF2F80340D2D0980B61A9D8FBF22C20905D16AF9639BB8CFF219C77FB0DD5CF",
+      "Length": 369
+    },
+    {
+      "Path": "Suites/miroon.git/lib/net10.0/Miroon.Module.Git.deps.json",
+      "Sha256": "5ED423D7C65DABE6A58529B041481F85129898824FA149EB7EF8E666D0824989",
+      "Length": 26597
+    },
+    {
+      "Path": "Suites/miroon.git/lib/net10.0/Miroon.Module.Git.dll",
+      "Sha256": "23694A6FFB0DA7BF3C6CBB698507014CDFC4110C8BBF95922DC81D821CA16FAD",
+      "Length": 44544
+    },
+    {
+      "Path": "Suites/miroon.git/miroon.suite.json",
+      "Sha256": "C5A53E68756D33DD400F54986A388FCE1C0A0A0F3A2962805DCC27FC090B36CB",
+      "Length": 332
+    },
+    {
+      "Path": "Suites/miroon.latex/Miroon.Module.LaTeX.nuspec",
+      "Sha256": "CD654944DF942A786E1AE08A79FB58FF752F9E39268B9C0BBD2B674CF4D491D1",
+      "Length": 771
+    },
+    {
+      "Path": "Suites/miroon.latex/catalog/catalog.v1.json",
+      "Sha256": "9AD5B7C74CA9FDAA23B27E36CDFE422AF2B30CBC56ADC3B5E96CE1DF07ED60BB",
+      "Length": 339
+    },
+    {
+      "Path": "Suites/miroon.latex/catalog/contributions.v1.json",
+      "Sha256": "3AF622C0A98E7F13DA1FFF62138A34C7E083AC424692439F55276C8C8D62C58F",
+      "Length": 4065
+    },
+    {
+      "Path": "Suites/miroon.latex/catalog/localization.en-US.v1.json",
+      "Sha256": "C5361F1E664F277E1CAD35EA1BCA01EFE6403A53962ACD8652582CB57D4B2665",
+      "Length": 1933
+    },
+    {
+      "Path": "Suites/miroon.latex/catalog/localization.zh-Hans.v1.json",
+      "Sha256": "EE982B8D5C5627A21ED5969EFF660798EBC69DCBAD513636CB70BDA3120FBDBB",
+      "Length": 2263
+    },
+    {
+      "Path": "Suites/miroon.latex/catalog/source-map.v1.json",
+      "Sha256": "84DBC0C5DCA0D389AD284163E68D8B45277A03CB4E5E44E8758BF57A1ADC5C5A",
+      "Length": 436
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Miroon.Module.LaTeX.deps.json",
+      "Sha256": "B5632F05E63C055EB620B84A543318D6C6F183C91FCE14DFF03E67FEA83FB446",
+      "Length": 26638
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Miroon.Module.LaTeX.dll",
+      "Sha256": "ED55AF5EC4F741EB478C15F63D08F83326ED99F360613026890527342BF6FD26",
+      "Length": 111104
+    },
+    {
+      "Path": "Suites/miroon.latex/miroon.suite.json",
+      "Sha256": "D2B37C78990BBD784589A563C729A1A11F877B9EC2E55767EA1E64E4780AD9A3",
+      "Length": 329
+    },
+    {
+      "Path": "Suites/miroon.markdown/Miroon.Module.Markdown.nuspec",
+      "Sha256": "DCC22BCB0F53F8508EAB5C107BF915DEBD11E34A2AA144241B5E2A698124D83A",
+      "Length": 777
+    },
+    {
+      "Path": "Suites/miroon.markdown/catalog/catalog.v1.json",
+      "Sha256": "E8C1A90CDA2CAF785AEAECF048B16AB107D448DB10FC8061BD033199D916B630",
+      "Length": 342
+    },
+    {
+      "Path": "Suites/miroon.markdown/catalog/contributions.v1.json",
+      "Sha256": "3F186646B5F6D6A694DA63257658431A305182BFF5E03D21BF93E5A967D8D5F1",
+      "Length": 844
+    },
+    {
+      "Path": "Suites/miroon.markdown/catalog/localization.en-US.v1.json",
+      "Sha256": "CC666C219626C076556D72B11D21517A5B7EF3F637176C7E370F1169DF5C8226",
+      "Length": 233
+    },
+    {
+      "Path": "Suites/miroon.markdown/catalog/localization.zh-Hans.v1.json",
+      "Sha256": "CA7AC090E841FE4E5C16F0552FF371E63CCEC5010CF4018FD0678F358B788E16",
+      "Length": 248
+    },
+    {
+      "Path": "Suites/miroon.markdown/catalog/source-map.v1.json",
+      "Sha256": "D0152863AB9E9415D6543B76456965D014D62E925F29B3E39E199DC822BBB5DD",
+      "Length": 262
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Markdig.dll",
+      "Sha256": "6231C6A7216466CBE7FDEAB7463A30ED29275CF90042BA64B49E1205D45E7EB5",
+      "Length": 493056
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Miroon.Module.Markdown.deps.json",
+      "Sha256": "F3A1169D2042F7321CE0002A989C1D39935628C252345FD0F72254E458AA86E7",
+      "Length": 27163
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Miroon.Module.Markdown.dll",
+      "Sha256": "4324518F4F0DF66CE92CD8F7836A3EB3A5B2F59B5F00A7089B747E0C83229A23",
+      "Length": 93184
+    },
+    {
+      "Path": "Suites/miroon.markdown/miroon.suite.json",
+      "Sha256": "CA432B3EA40B37916CAE498BD269EC8EA97B081B96CDFC2DCAC0771DAE81997D",
+      "Length": 311
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/Miroon.Suite.Researcher.nuspec",
+      "Sha256": "2A7441229D6DAF2DA6DF57556730E420E8DEB33B06803AB90895751A071A2008",
+      "Length": 723
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/catalog/catalog.v1.json",
+      "Sha256": "BD9AB5CC1997DCF844D4134DC9159050984DA55684354A5728AAB8B5350F0881",
+      "Length": 350
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/catalog/contributions.v1.json",
+      "Sha256": "69DF03020F7E94784617429D8CA975BE96E206F25871777EEFD822D5ADFEB3EB",
+      "Length": 312
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/catalog/localization.en-US.v1.json",
+      "Sha256": "92B1EB414D938BBA3FB45837C5FBF7BFFF52E38815025E96B35DC0BE90D4BE46",
+      "Length": 189
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/catalog/localization.zh-Hans.v1.json",
+      "Sha256": "D4A807D1705A0010F51C3D3660CF09E37CD8E2BE001003294F444E91582B63D9",
+      "Length": 199
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/catalog/source-map.v1.json",
+      "Sha256": "12125DCE32E078033C831F5F9830E33E99FC148658F999D0E0A3FC85E819E9CF",
+      "Length": 268
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/lib/net10.0/Miroon.Suite.Researcher.deps.json",
+      "Sha256": "2CEFAB134840FD6836E7437095AFF37D6DABB44362B6B558EFF48DC5F5F37093",
+      "Length": 26615
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/lib/net10.0/Miroon.Suite.Researcher.dll",
+      "Sha256": "8E859A0D82F2A7393565431136F48A035E47B2E9AC946E1FE52F91AF2025846F",
+      "Length": 8704
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/miroon.suite.json",
+      "Sha256": "99FE0CEAABAD8ABD6DA9B93E96E269B23D4040656F9DEA9C5080CEED5215B14A",
+      "Length": 341
+    },
+    {
+      "Path": "System.Security.Cryptography.Pkcs.dll",
+      "Sha256": "D8E4B733FBAEC1FE0E808FD6391479F190B170DF03E309C5F07DC85445447D22",
+      "Length": 319784
+    },
+    {
+      "Path": "System.Security.Cryptography.ProtectedData.dll",
+      "Sha256": "5E04D6CFF3B6FE9706908970CD594861F0C08B3824F7827B2331B5F4FCEE1BD1",
+      "Length": 36616
+    },
+    {
+      "Path": "candidate-manifest.json",
+      "Sha256": "DDACC74C486BD2401193249CF53E86A050F0BEB37516DA1054216D47F3E58CE4",
+      "Length": 1097
+    }
+  ],
+  "Packages": [
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonResearcher/0.2.0-alpha.4/win-x64/CA27172948F88DC1C408A61DF6AD24F428AEB60C6F4342F8F574FBE1FF61384F.zip",
+      "Sha256": "CA27172948F88DC1C408A61DF6AD24F428AEB60C6F4342F8F574FBE1FF61384F",
+      "Length": 889109
+    },
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonResearcher/0.2.0-alpha.4/win-x64/D961078FAEFA5ED60D009DF860EEF89BBDBE16DA54DA40CE4DF1AE7541532023.zip",
+      "Sha256": "D961078FAEFA5ED60D009DF860EEF89BBDBE16DA54DA40CE4DF1AE7541532023",
+      "Length": 234972
+    },
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonResearcher/0.2.0-alpha.4/win-x64/650BC2CDD0B5EA42B35D63D6C04DAA562EBA05D478BECDE0B7F2AFB0FA01A8DB.zip",
+      "Sha256": "650BC2CDD0B5EA42B35D63D6C04DAA562EBA05D478BECDE0B7F2AFB0FA01A8DB",
+      "Length": 1236784
+    },
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonResearcher/0.2.0-alpha.4/win-x64/ADFC68C65297CC64B51F761A303A8FE9EC63E96B1F7A391B617EB1552EE337DB.zip",
+      "Sha256": "ADFC68C65297CC64B51F761A303A8FE9EC63E96B1F7A391B617EB1552EE337DB",
+      "Length": 27433
+    },
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonResearcher/0.2.0-alpha.4/win-x64/D8F39462D2F8FE68CDE1F2420A37CD11334E1FDCFF1E506D9045E8B8CB702F52.zip",
+      "Sha256": "D8F39462D2F8FE68CDE1F2420A37CD11334E1FDCFF1E506D9045E8B8CB702F52",
+      "Length": 58259
+    },
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonResearcher/0.2.0-alpha.4/win-x64/1633627BDEF86F9BBC3CDB8165457EB36CDEA4471CF22B2BFE11A00499074B46.zip",
+      "Sha256": "1633627BDEF86F9BBC3CDB8165457EB36CDEA4471CF22B2BFE11A00499074B46",
+      "Length": 244027
+    },
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonResearcher/0.2.0-alpha.4/win-x64/7F7777EB7E987B1174C2BCC1AA0B0380B83494E3FD4BAAFA1023AA569C29685F.zip",
+      "Sha256": "7F7777EB7E987B1174C2BCC1AA0B0380B83494E3FD4BAAFA1023AA569C29685F",
+      "Length": 10735
+    }
+  ]
+}

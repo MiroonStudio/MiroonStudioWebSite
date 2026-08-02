@@ -1,0 +1,23 @@
+{
+  "Type": "release",
+  "ProductId": "MiroonRender",
+  "Version": "0.2.0-alpha.4",
+  "ReleaseHash": "352FD1437CE00C93F76B11E40191FC8DA71AB21056033672F99E1562ADC83FE7",
+  "Rid": "win-x64",
+  "EntryPoint": "MiroonRender.dll",
+  "Dependencies": [],
+  "Files": [
+    {
+      "Path": "MiroonRender.dll",
+      "Sha256": "7587897F7D19A1150120DE3CAC56AD5A1EED7235AE138E2FB8B589D5814EE9F2",
+      "Length": 377344
+    }
+  ],
+  "Packages": [
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonRender/0.2.0-alpha.4/win-x64/AB642730881C69C109B753D175237711A12BB07956E90CEAC16354E4153E4B25.zip",
+      "Sha256": "AB642730881C69C109B753D175237711A12BB07956E90CEAC16354E4153E4B25",
+      "Length": 140883
+    }
+  ]
+}

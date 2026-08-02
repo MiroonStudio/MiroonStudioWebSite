@@ -1,0 +1,10 @@
+{
+  "Type": "release-notes",
+  "ProductId": "MiroonRuntime.Fonts",
+  "Version": "0.2.0-alpha.4",
+  "ReleaseHash": "40A1BB27C2142267855A3AE918AE5C1E4EAA6702548288440E528896F01A9EB9",
+  "Summary": "MiroonRuntime.Fonts 0.2.0-alpha.4",
+  "Changes": [],
+  "CompatibilityNotes": [],
+  "MigrationNotes": []
+}
