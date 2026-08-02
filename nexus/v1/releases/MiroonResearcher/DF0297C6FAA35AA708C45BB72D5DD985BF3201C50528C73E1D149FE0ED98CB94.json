@@ -1,0 +1,1183 @@
+{
+  "Type": "release",
+  "ProductId": "MiroonResearcher",
+  "Version": "0.2.0-alpha.3",
+  "ReleaseHash": "DF0297C6FAA35AA708C45BB72D5DD985BF3201C50528C73E1D149FE0ED98CB94",
+  "Rid": "win-x64",
+  "EntryPoint": "MiroonIDE.exe",
+  "Dependencies": [
+    {
+      "ProductId": "MiroonRuntime.WinX64",
+      "ReleaseHash": "69C904D66366637B894498E9013AD603EB9D07DF843BDA5AA790BF63CD270DDD"
+    }
+  ],
+  "Files": [
+    {
+      "Path": "Assets/Fonts/HarmonyOS_Sans_SC_Medium.ttf",
+      "Sha256": "6ED1553EDCCDDC48EB27FF25D134A4A715CF54211238D4840B3038576CBA1944",
+      "Length": 8227312
+    },
+    {
+      "Path": "Assets/Fonts/Inter-Variable.ttf",
+      "Sha256": "29160A80FF49DDCAB2C97711247E08B1FAB27A484A329CE8B813D820DC559031",
+      "Length": 876576
+    },
+    {
+      "Path": "Assets/Fonts/Licenses/HarmonyOS-Sans-License.txt",
+      "Sha256": "327E0147D4A3CA2D89E81ABCE45B210576B0F9FE2B29D900F64B58039F12A102",
+      "Length": 3352
+    },
+    {
+      "Path": "Assets/Fonts/Licenses/Inter-OFL-1.1.txt",
+      "Sha256": "5DD548D31A85F756E01D63E00D7FAF1E324103ED3E9102FCBBABF2CC2DB6DD39",
+      "Length": 4376
+    },
+    {
+      "Path": "Assets/Fonts/Licenses/NotoSansSC-OFL-1.1.txt",
+      "Sha256": "BABCFE66C8A098B2FA279BC724A3A342F8124F77CE18941FBCC1BBB39823CDED",
+      "Length": 4387
+    },
+    {
+      "Path": "Assets/Fonts/Licenses/RobotoMono-OFL-1.1.txt",
+      "Sha256": "B6CAB49AED2CCFB5F63D27FD252EB0226A4BC882528BA5FDCCCD593883B9BF55",
+      "Length": 4394
+    },
+    {
+      "Path": "Assets/Fonts/NotoSansSC-Variable.ttf",
+      "Sha256": "A3041811A78C361B1DE50F953C805E0244951C21C5BD412F7232EF0D899AF0DA",
+      "Length": 17772300
+    },
+    {
+      "Path": "Assets/Fonts/RobotoMono-Variable.ttf",
+      "Sha256": "66A80E79D17E4C7CABD162E2916578A4CC08FD19EEF6E2A643305EAE9C567B2B",
+      "Length": 183700
+    },
+    {
+      "Path": "Compatibility/MiroonResearcher/MiroonResearcher.exe",
+      "Sha256": "0216362C3870366334177249B9A7C97061D9490CA2E23693E99A51B9BB95AAB5",
+      "Length": 1810944
+    },
+    {
+      "Path": "HarfBuzzSharp.dll",
+      "Sha256": "3981A2069837301E1A8CF8065C53A08AA9AB0DEB79D764B925B4BF22781273B2",
+      "Length": 130912
+    },
+    {
+      "Path": "Miroon.IDE.Core.dll",
+      "Sha256": "68E486969823C3A1D98E5E09F85131F9F9D7B494FDC5493CAB2D3092B7D419AE",
+      "Length": 245248
+    },
+    {
+      "Path": "Miroon.IDE.Editor.dll",
+      "Sha256": "786965526EEECC599F5BDEC495709A34034DFB9159C6410830CB65E6D8E75C6B",
+      "Length": 68608
+    },
+    {
+      "Path": "Miroon.IDE.SDK.dll",
+      "Sha256": "9595C9D9A56F31FE3CD41D8B1C2BF196FE707CD73A92C074EC4F108ACE3BE6E7",
+      "Length": 114688
+    },
+    {
+      "Path": "Miroon.IDE.UI.SDK.dll",
+      "Sha256": "0862852653B9461DF364B7DE13FC6E3CDCC628FE48309DC8BE957B63AD764B0F",
+      "Length": 50176
+    },
+    {
+      "Path": "Miroon.IDE.Workbench.dll",
+      "Sha256": "93FBBD588917424D0494EE9B2D9188D0E1F682A1D7ABBADF73E09F47091C4CC9",
+      "Length": 228352
+    },
+    {
+      "Path": "Miroon.IDE.Worker.Protocol.dll",
+      "Sha256": "D629275F4540C3E966B21888A0F715813C7AB5D7D8544E9C82F3C32FFD99E40E",
+      "Length": 85504
+    },
+    {
+      "Path": "MiroonEngine.Graphics2D.dll",
+      "Sha256": "BB7F88688D220393714D052915D6A5CCC3032FD2DB44D982785D4690CFBAD282",
+      "Length": 55296
+    },
+    {
+      "Path": "MiroonEngine.Render.Vulkan.dll",
+      "Sha256": "97BE6CB2E85868AD499745C20F406ED31923E473D61F81FC87A53286BA619863",
+      "Length": 93184
+    },
+    {
+      "Path": "MiroonEngine.Text.dll",
+      "Sha256": "A129761411311A75B9CEEF0C326B57A13AE1B7F4AF9E886E261606090BE16C1C",
+      "Length": 48640
+    },
+    {
+      "Path": "MiroonEngine.dll",
+      "Sha256": "BBE28FD825568C7AC234477A48B279FA4E0478EFA8492A1AA58397C4BC8C3B0A",
+      "Length": 99328
+    },
+    {
+      "Path": "MiroonIDE.deps.json",
+      "Sha256": "39C4F763304B630ED1A03EF44C7DA3E5470D93172798FFDBE5600B9E4C53CC96",
+      "Length": 50950
+    },
+    {
+      "Path": "MiroonIDE.dll",
+      "Sha256": "44E61C9FA32F08D9A548FCA1797784B3603D390A125030A9CE0E8CD0EE71CAD4",
+      "Length": 251392
+    },
+    {
+      "Path": "MiroonIDE.exe",
+      "Sha256": "2AA53E67632DA7CA1C5FF98A8732348FF2AF4FA80B24B7B415D6CE7556937CA8",
+      "Length": 192000
+    },
+    {
+      "Path": "MiroonIDE.runtimeconfig.json",
+      "Sha256": "FB1B48E161EABB7F3308F99D995E711B241B52171B0CA497756BEFFA852501B0",
+      "Length": 431
+    },
+    {
+      "Path": "MiroonRender.dll",
+      "Sha256": "7587897F7D19A1150120DE3CAC56AD5A1EED7235AE138E2FB8B589D5814EE9F2",
+      "Length": 377344
+    },
+    {
+      "Path": "MiroonUI.dll",
+      "Sha256": "0CFDC442625D66BF7F512C8CC1CBFCD5A75BF46E60CFA43DBB866B1972E5AF16",
+      "Length": 62976
+    },
+    {
+      "Path": "Newtonsoft.Json.dll",
+      "Sha256": "22C649F75FCE5BE7C7CCDA8880473B634EF69ECF33F5D1AB8AD892CAF47D5A07",
+      "Length": 712464
+    },
+    {
+      "Path": "NuGet.Common.dll",
+      "Sha256": "2486B7D4B891D509C92C45913DECF1C58BD0B762E85A116577F181AA632EA629",
+      "Length": 108576
+    },
+    {
+      "Path": "NuGet.Configuration.dll",
+      "Sha256": "69F2F90C3298B068101986F8D0E468B9C7CD37ACF26EAFAD3201710E608914CA",
+      "Length": 172104
+    },
+    {
+      "Path": "NuGet.Frameworks.dll",
+      "Sha256": "80528B5F0C5482A33866669D460DF7120C1B1A135E38D3337FA31207BA0398BB",
+      "Length": 122912
+    },
+    {
+      "Path": "NuGet.Packaging.dll",
+      "Sha256": "05A065ACAFAF18C02C5ABB44542EB838F0A6516A7FB17B79A077E4F42A5B0EDA",
+      "Length": 728096
+    },
+    {
+      "Path": "NuGet.Versioning.dll",
+      "Sha256": "457F94606721F8534623B572CDE896050750357DA0172D139FAA25DEFD5042C8",
+      "Length": 62024
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/Miroon.Module.Miro.nuspec",
+      "Sha256": "063DEA3E32C0F3B1D3B8D9D8E8227CD0DAD487266380A501BDC04380696DCDEA",
+      "Length": 904
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/catalog/catalog.v1.json",
+      "Sha256": "5050FA7249A3D4DF387C281881F43A096C817C65CCB87A898EA9E476912DBA55",
+      "Length": 332
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/catalog/contributions.v1.json",
+      "Sha256": "EA67522E5F7BB3909A498C29C30C490CBA5D499E8FD083A9F8B9B61B496B3797",
+      "Length": 8172
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/catalog/localization.en.v1.json",
+      "Sha256": "A1378020D513D06AF0C978E2F951FEBA2A122C786C9A76AEEEBC3C1E45F619A0",
+      "Length": 2306
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/catalog/localization.zh-Hans.v1.json",
+      "Sha256": "52481B234040DE591BECC66E72DC447F401945916938A8BAC8806E0C3BD65D4E",
+      "Length": 2817
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/catalog/source-map.v1.json",
+      "Sha256": "37F2788E19316572650EB1B874BDB0F2117EF47E7B06ADB6961D0528745DE07D",
+      "Length": 364
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Assets/Fonts/HarmonyOS_Sans_SC_Medium.ttf",
+      "Sha256": "6ED1553EDCCDDC48EB27FF25D134A4A715CF54211238D4840B3038576CBA1944",
+      "Length": 8227312
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Assets/Live2D/miro/v01/Miro_Core_v01.2048/texture_00.png",
+      "Sha256": "CA32CE0C64DFD4FF41C035A2F2CA25C9C26646C3D63FBFAC05AF2B2ABA3B6B7F",
+      "Length": 573924
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Assets/Live2D/miro/v01/Miro_Core_v01.moc3",
+      "Sha256": "750737191ED2AF1DD32819345C5DE0EF152D421919BB3E4CE0C0A410DB4A82F3",
+      "Length": 80000
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Assets/Live2D/miro/v01/Miro_Core_v01.model3.json",
+      "Sha256": "818C28465720C3506F16B2E911329F329BBBC186C13EA64F1D62D95573331FBE",
+      "Length": 420
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Assets/Live2D/miro/v01/miro-static.png",
+      "Sha256": "05143B10B5550C446BF18B31182FDAF85289B6234F0258FC73532ABF72451CF5",
+      "Length": 597627
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Assets/Live2D/miro/v01/miro.assets.json",
+      "Sha256": "C836AEEFEF8682B5EF3D22AC9B46C100F2F07BF1247109F1609034BE68EA8ADF",
+      "Length": 715
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/HarfBuzzSharp.dll",
+      "Sha256": "3981A2069837301E1A8CF8065C53A08AA9AB0DEB79D764B925B4BF22781273B2",
+      "Length": 130912
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Hjson.dll",
+      "Sha256": "D13A55406FDFBDF0F5185614EBFCF03B90F3FFCA59CE49E0673DBE979015D083",
+      "Length": 39424
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Microsoft.DotNet.PlatformAbstractions.dll",
+      "Sha256": "B1F4AD169FB192747F5D2D3111C01DB4257E3EC1F7F18F301F7FC4BE3B869FF3",
+      "Length": 23424
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Microsoft.Extensions.DependencyModel.dll",
+      "Sha256": "48CB00C7CB7DEBE78133F435D66DFE92C951897C608B58FB993D73254D0973AC",
+      "Length": 85280
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Miroon.IDE.SDK.dll",
+      "Sha256": "9595C9D9A56F31FE3CD41D8B1C2BF196FE707CD73A92C074EC4F108ACE3BE6E7",
+      "Length": 114688
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Miroon.IDE.UI.SDK.dll",
+      "Sha256": "0862852653B9461DF364B7DE13FC6E3CDCC628FE48309DC8BE957B63AD764B0F",
+      "Length": 50176
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Miroon.Miro.Protocol.dll",
+      "Sha256": "C1EE9AB88FFE022733F79E4CB21E9523D3DF261C0B86008740A4D11968CD27F4",
+      "Length": 119808
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Miroon.Miro.Surface.MiroonUI.dll",
+      "Sha256": "89F5DFE5C51C8125D5C3750CBF567CA518F8C3FCD3866F1C5CF46F8983EEC499",
+      "Length": 66560
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Miroon.Miro.Surface.Protocol.dll",
+      "Sha256": "5629A462BF7942469056E5C44A9818A8CBB7373EEDB793BD167AD84EAA282D9D",
+      "Length": 73728
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Miroon.Module.Miro.deps.json",
+      "Sha256": "AEDC81D11CAD8F6A77ADB8B173A72BAF4A6551DB2E8671C2B8DC423E7797A4C7",
+      "Length": 29887
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Miroon.Module.Miro.dll",
+      "Sha256": "53D574706FA4BDD9F83222AE078F1E37496139DEB271358EA9B227E00AE5EF56",
+      "Length": 73728
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonEngine.Graphics2D.dll",
+      "Sha256": "EF5988D080BE26E76F26D71EDB5EDD78BD008BE4C8E85FBFED471C5A6AD8905F",
+      "Length": 56320
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonEngine.Live2D.Render.Vulkan.dll",
+      "Sha256": "FCAD48672B5600194DE425C18225BD08C4F391F00DA0821373FB5FA6B711591C",
+      "Length": 37888
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonEngine.Live2D.dll",
+      "Sha256": "DDA44C43BDC5A9DA037A54A66A1DB03A98B2926A02922C4C111D5DF8C9D5FC5D",
+      "Length": 78336
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonEngine.Render.Vulkan.dll",
+      "Sha256": "438DA227A49B9BDF51122A518B3B1518E2667F395E3CE70BE4BD6ABC8A139391",
+      "Length": 94208
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonEngine.Text.dll",
+      "Sha256": "87ECB44F8A2E353F5F65DBCD7D594FB4C32C462F9EC799D7DF71B80E55143E21",
+      "Length": 49152
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonEngine.dll",
+      "Sha256": "334E5AB0AFE13E4A3985FA563440E5B0D7289120DF49208F78EBB4C70D86421C",
+      "Length": 99840
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonMiro.Core.deps.json",
+      "Sha256": "DED16B1AA829A944964542EB0CE87D40C44A5ED0EA25EEA814486FE37E0E6FF3",
+      "Length": 1345
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonMiro.Core.dll",
+      "Sha256": "55D0D10F9CD5DEF677F329DABEFB54EC6B054542AEEABCB42267E788EF063F71",
+      "Length": 72192
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonMiro.Core.exe",
+      "Sha256": "7A24588E868545146E33877FD3B544DF092A72E0D4B362B43881C094F6FDEAB5",
+      "Length": 162816
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonMiro.Core.runtimeconfig.json",
+      "Sha256": "C230A317A54DD960BCBEB5F347F52E18DC665A26F7EFDA2159FCED9A5AC7E097",
+      "Length": 342
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonMiro.Shell.deps.json",
+      "Sha256": "7CC337C032D7A4609A8A0806F47BD9C6926A52A5A2F63F7BEFDCA79BDBA6B4DB",
+      "Length": 28054
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonMiro.Shell.dll",
+      "Sha256": "C34C741FB0B2D832AEE7878328A1C2568906133C19ADEA7276BD1A126AC4DDD4",
+      "Length": 51712
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonMiro.Shell.exe",
+      "Sha256": "FB250393D75212EF6324102EC80F90AE910B0336472CB3D2D88535C65C6B075B",
+      "Length": 192000
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonMiro.Shell.runtimeconfig.json",
+      "Sha256": "C230A317A54DD960BCBEB5F347F52E18DC665A26F7EFDA2159FCED9A5AC7E097",
+      "Length": 342
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonRender.dll",
+      "Sha256": "7587897F7D19A1150120DE3CAC56AD5A1EED7235AE138E2FB8B589D5814EE9F2",
+      "Length": 377344
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/MiroonUI.dll",
+      "Sha256": "B817BFC759D3DD93E7D569D87E4ACB57C0CB3920282562763D8B65383734DD9D",
+      "Length": 64000
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Silk.NET.Core.dll",
+      "Sha256": "56E4A018BD9A4E0FB94F97331191DB7E86AF98B0E23082EA36863F146E217A5C",
+      "Length": 310032
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Silk.NET.GLFW.dll",
+      "Sha256": "9C3C71D2FE0B01BB4FD00E7047001B99DB8869384B7BA6B9750F389EECE224DC",
+      "Length": 84752
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Silk.NET.Input.Common.dll",
+      "Sha256": "4979F2A0AFD682E740C247FB103CDD8368D87381728CF633D3BFA4515C0289D1",
+      "Length": 41232
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Silk.NET.Input.Glfw.dll",
+      "Sha256": "43D615B40D28824C7B7EB488E2B891A09ED6353DD3D0D73A366C67ABE8B5270E",
+      "Length": 49424
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Silk.NET.Maths.dll",
+      "Sha256": "C3B2B856435A1824F21D0467241F7EF7929980FC11A61D651166CE60828475EB",
+      "Length": 324368
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Silk.NET.Vulkan.Extensions.KHR.dll",
+      "Sha256": "BE226E227F8695B714DB140D5F267760C69B2D64A929B10E3D29D2787DD6EDF7",
+      "Length": 445712
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Silk.NET.Vulkan.dll",
+      "Sha256": "5A56F1FE4DB712091B6DB94E16B6F7E71049027E48F0EE72E001846F1D7A5F45",
+      "Length": 3251984
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Silk.NET.Windowing.Common.dll",
+      "Sha256": "7C80870D5135714DC30EFA71E4ADB0DE9A8C699602CD7E5409D6B21EAA5FAD21",
+      "Length": 54032
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/Silk.NET.Windowing.Glfw.dll",
+      "Sha256": "62D66480FF7E9973A231C5898E7C293D814558E5E156F59898BA41DB2B98F4A8",
+      "Length": 41744
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/SkiaSharp.HarfBuzz.dll",
+      "Sha256": "13535F2F25C2CAA8421A94DBCD5D0C71AEC7C79E6F6F0B1B614BBC8926CFC73A",
+      "Length": 24928
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/SkiaSharp.dll",
+      "Sha256": "948B5569F2BCD47D4511A465091DBD00BF941EE0F8F3C495D511F5A2FF0703CA",
+      "Length": 526176
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/licenses/Fonts/HarmonyOS-Sans-License.txt",
+      "Sha256": "327E0147D4A3CA2D89E81ABCE45B210576B0F9FE2B29D900F64B58039F12A102",
+      "Length": 3352
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/licenses/Live2D/CORE-LICENSE.md",
+      "Sha256": "B81E37048010EF1D336106151201A0323C3309CAE44AECDEDF57831FE88FA991",
+      "Length": 520
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/licenses/Live2D/RedistributableFiles.txt",
+      "Sha256": "7FC84DE68C192319CB0F8F724BA2C3AA374DC5385900AF32D11FFE6A248C6B68",
+      "Length": 2730
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/licenses/Live2D/SDK-LICENSE.md",
+      "Sha256": "BFB10FF526E0EFCD67B4191B334F3CAB191981FF0FA705E7990677966EFBB1B8",
+      "Length": 3061
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/runtimes/win-x64/native/Live2DCubismCore.dll",
+      "Sha256": "D883C00D114FDF6CEF61F439FEB23E02D000FDF683E092803010470B80DFAF09",
+      "Length": 249800
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/runtimes/win-x64/native/glfw3.dll",
+      "Sha256": "A107A8E8378527897D5E99F3A53D01A7289EF5FDA564952FBEC2769386ECCD58",
+      "Length": 232960
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll",
+      "Sha256": "605D533007E484B65D48D36E1941D34426AE601FF28A3795795641086E93E935",
+      "Length": 2038112
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/lib/net10.0/runtimes/win-x64/native/libSkiaSharp.dll",
+      "Sha256": "C8770C219E0D3CD9BB119FAD46F2D00AE1855B11315816E86E909E3332826212",
+      "Length": 12254048
+    },
+    {
+      "Path": "OptionalSuites/miroon.miro/miroon.suite.json",
+      "Sha256": "031A064E8966F2366FCB77A910F1978AE296D139CC17E8F2CC847B5C8132580F",
+      "Length": 601
+    },
+    {
+      "Path": "Profiles/ide.json",
+      "Sha256": "3DDA4532738F84C6228F100E2843621A168C2DAB70813F9F7365F72286AE3499",
+      "Length": 152
+    },
+    {
+      "Path": "Profiles/researcher.json",
+      "Sha256": "CCA4B0CD098FC68F460B558D5ED8946A3E8B2F3655A7F6C3CA8FD0D810FF0FB7",
+      "Length": 915
+    },
+    {
+      "Path": "Samples/miroon.example/Miroon.ExampleSuite.nuspec",
+      "Sha256": "28B9AA7FCF8CCF354AB16BB3AD44260C9C16A5598CFD6DB665F790742B3F397B",
+      "Length": 629
+    },
+    {
+      "Path": "Samples/miroon.example/catalog/catalog.v1.json",
+      "Sha256": "8ED322408E02675A60D0BA285CB8E416EF60E43F0A28BE37FD8CB407313B1DB7",
+      "Length": 339
+    },
+    {
+      "Path": "Samples/miroon.example/catalog/contributions.v1.json",
+      "Sha256": "F0D0EE5F5D206F6A0E79E634640978095F11DDED58AD2967FAFADBA8688B35E6",
+      "Length": 2329
+    },
+    {
+      "Path": "Samples/miroon.example/catalog/localization.en-US.v1.json",
+      "Sha256": "FC7AA06E85D8C569EC69A25FCAB3183D897ECC8031F4B90B2FA11E39947332AF",
+      "Length": 348
+    },
+    {
+      "Path": "Samples/miroon.example/catalog/localization.zh-Hans.v1.json",
+      "Sha256": "746DD2EEB704E4958F67F539E028F356A3F34DB7018C04E02E0A6345D9060C69",
+      "Length": 379
+    },
+    {
+      "Path": "Samples/miroon.example/catalog/source-map.v1.json",
+      "Sha256": "0281221498C19716A24AD3E5FAD4F17AE6487F82F01B844168D1652FD35F73BC",
+      "Length": 438
+    },
+    {
+      "Path": "Samples/miroon.example/lib/net10.0/Miroon.ExampleSuite.deps.json",
+      "Sha256": "5A1DB0B34D77EB225CA16E0F749E8245DF4771BABF91E9B06A3C137F0199D803",
+      "Length": 26603
+    },
+    {
+      "Path": "Samples/miroon.example/lib/net10.0/Miroon.ExampleSuite.dll",
+      "Sha256": "7D3657D33D19A04E2B3B2C701C2AF67ACB432CDAE3217AE9DF84CECE515884E7",
+      "Length": 22528
+    },
+    {
+      "Path": "Samples/miroon.example/lib/net10.0/Miroon.IDE.SDK.dll",
+      "Sha256": "9595C9D9A56F31FE3CD41D8B1C2BF196FE707CD73A92C074EC4F108ACE3BE6E7",
+      "Length": 114688
+    },
+    {
+      "Path": "Samples/miroon.example/lib/net10.0/Miroon.IDE.UI.SDK.dll",
+      "Sha256": "0862852653B9461DF364B7DE13FC6E3CDCC628FE48309DC8BE957B63AD764B0F",
+      "Length": 50176
+    },
+    {
+      "Path": "Samples/miroon.example/lib/net10.0/MiroonEngine.Graphics2D.dll",
+      "Sha256": "EF5988D080BE26E76F26D71EDB5EDD78BD008BE4C8E85FBFED471C5A6AD8905F",
+      "Length": 56320
+    },
+    {
+      "Path": "Samples/miroon.example/lib/net10.0/MiroonEngine.Render.Vulkan.dll",
+      "Sha256": "438DA227A49B9BDF51122A518B3B1518E2667F395E3CE70BE4BD6ABC8A139391",
+      "Length": 94208
+    },
+    {
+      "Path": "Samples/miroon.example/lib/net10.0/MiroonEngine.Text.dll",
+      "Sha256": "87ECB44F8A2E353F5F65DBCD7D594FB4C32C462F9EC799D7DF71B80E55143E21",
+      "Length": 49152
+    },
+    {
+      "Path": "Samples/miroon.example/lib/net10.0/MiroonEngine.dll",
+      "Sha256": "334E5AB0AFE13E4A3985FA563440E5B0D7289120DF49208F78EBB4C70D86421C",
+      "Length": 99840
+    },
+    {
+      "Path": "Samples/miroon.example/lib/net10.0/MiroonUI.dll",
+      "Sha256": "B817BFC759D3DD93E7D569D87E4ACB57C0CB3920282562763D8B65383734DD9D",
+      "Length": 64000
+    },
+    {
+      "Path": "Samples/miroon.example/miroon.suite.json",
+      "Sha256": "F4956D9A006A47A86FD39B8CB8EB283187FEC9659640527D39446449990D6AA2",
+      "Length": 449
+    },
+    {
+      "Path": "Samples/miroon.example/workers/Miroon.ExampleSuite.Worker.deps.json",
+      "Sha256": "38D5711962DCC89923194D20B9D6E5BEFBDBC8CF872BEE4906D048C42E202829",
+      "Length": 915
+    },
+    {
+      "Path": "Samples/miroon.example/workers/Miroon.ExampleSuite.Worker.dll",
+      "Sha256": "03C757776D2A23EC4E1C6AD19820FF766AF97B61A9F6D591C12C9F9AE9C995F8",
+      "Length": 20992
+    },
+    {
+      "Path": "Samples/miroon.example/workers/Miroon.ExampleSuite.Worker.exe",
+      "Sha256": "9A1B07D8F216BC512501D64356752522BB18A9EC5FFB8CB0D0C3020FD4E52B30",
+      "Length": 162816
+    },
+    {
+      "Path": "Samples/miroon.example/workers/Miroon.ExampleSuite.Worker.runtimeconfig.json",
+      "Sha256": "C230A317A54DD960BCBEB5F347F52E18DC665A26F7EFDA2159FCED9A5AC7E097",
+      "Length": 342
+    },
+    {
+      "Path": "Samples/miroon.example/workers/Miroon.IDE.Worker.Protocol.dll",
+      "Sha256": "D629275F4540C3E966B21888A0F715813C7AB5D7D8544E9C82F3C32FFD99E40E",
+      "Length": 85504
+    },
+    {
+      "Path": "Silk.NET.Core.dll",
+      "Sha256": "56E4A018BD9A4E0FB94F97331191DB7E86AF98B0E23082EA36863F146E217A5C",
+      "Length": 310032
+    },
+    {
+      "Path": "Silk.NET.GLFW.dll",
+      "Sha256": "9C3C71D2FE0B01BB4FD00E7047001B99DB8869384B7BA6B9750F389EECE224DC",
+      "Length": 84752
+    },
+    {
+      "Path": "Silk.NET.Input.Common.dll",
+      "Sha256": "4979F2A0AFD682E740C247FB103CDD8368D87381728CF633D3BFA4515C0289D1",
+      "Length": 41232
+    },
+    {
+      "Path": "Silk.NET.Input.Glfw.dll",
+      "Sha256": "43D615B40D28824C7B7EB488E2B891A09ED6353DD3D0D73A366C67ABE8B5270E",
+      "Length": 49424
+    },
+    {
+      "Path": "Silk.NET.Maths.dll",
+      "Sha256": "C3B2B856435A1824F21D0467241F7EF7929980FC11A61D651166CE60828475EB",
+      "Length": 324368
+    },
+    {
+      "Path": "Silk.NET.Vulkan.Extensions.KHR.dll",
+      "Sha256": "BE226E227F8695B714DB140D5F267760C69B2D64A929B10E3D29D2787DD6EDF7",
+      "Length": 445712
+    },
+    {
+      "Path": "Silk.NET.Vulkan.dll",
+      "Sha256": "5A56F1FE4DB712091B6DB94E16B6F7E71049027E48F0EE72E001846F1D7A5F45",
+      "Length": 3251984
+    },
+    {
+      "Path": "Silk.NET.Windowing.Common.dll",
+      "Sha256": "7C80870D5135714DC30EFA71E4ADB0DE9A8C699602CD7E5409D6B21EAA5FAD21",
+      "Length": 54032
+    },
+    {
+      "Path": "Silk.NET.Windowing.Glfw.dll",
+      "Sha256": "62D66480FF7E9973A231C5898E7C293D814558E5E156F59898BA41DB2B98F4A8",
+      "Length": 41744
+    },
+    {
+      "Path": "SkiaSharp.HarfBuzz.dll",
+      "Sha256": "13535F2F25C2CAA8421A94DBCD5D0C71AEC7C79E6F6F0B1B614BBC8926CFC73A",
+      "Length": 24928
+    },
+    {
+      "Path": "SkiaSharp.dll",
+      "Sha256": "948B5569F2BCD47D4511A465091DBD00BF941EE0F8F3C495D511F5A2FF0703CA",
+      "Length": 526176
+    },
+    {
+      "Path": "Suites/miroon.git/Miroon.Module.Git.nuspec",
+      "Sha256": "F52A5C2298CB0118F3487ED5C8EF21798A8AE43AB793D0A3217E8476387F0DAB",
+      "Length": 504
+    },
+    {
+      "Path": "Suites/miroon.git/catalog/catalog.v1.json",
+      "Sha256": "E5853BE17D9C88ED7864CA6DDD64405E8787C59E4C136F514340DCBF17AA768F",
+      "Length": 337
+    },
+    {
+      "Path": "Suites/miroon.git/catalog/contributions.v1.json",
+      "Sha256": "671C3CD60B03D3BB46A59E99FC61466F5C5E3978BECB68C2B93FEE38A1370A61",
+      "Length": 2279
+    },
+    {
+      "Path": "Suites/miroon.git/catalog/localization.en-US.v1.json",
+      "Sha256": "846A81E3E6021B39897980D36048596D8F97327F6693FCB3F7591685A18E0581",
+      "Length": 937
+    },
+    {
+      "Path": "Suites/miroon.git/catalog/localization.zh-Hans.v1.json",
+      "Sha256": "E59CA9D990FC2BEE5E0FF342FE2E524CF291A23127B67F73CAAC8B41625D8367",
+      "Length": 1049
+    },
+    {
+      "Path": "Suites/miroon.git/catalog/source-map.v1.json",
+      "Sha256": "9CF2F80340D2D0980B61A9D8FBF22C20905D16AF9639BB8CFF219C77FB0DD5CF",
+      "Length": 369
+    },
+    {
+      "Path": "Suites/miroon.git/lib/net10.0/Miroon.IDE.SDK.dll",
+      "Sha256": "9595C9D9A56F31FE3CD41D8B1C2BF196FE707CD73A92C074EC4F108ACE3BE6E7",
+      "Length": 114688
+    },
+    {
+      "Path": "Suites/miroon.git/lib/net10.0/Miroon.IDE.UI.SDK.dll",
+      "Sha256": "0862852653B9461DF364B7DE13FC6E3CDCC628FE48309DC8BE957B63AD764B0F",
+      "Length": 50176
+    },
+    {
+      "Path": "Suites/miroon.git/lib/net10.0/Miroon.Module.Git.deps.json",
+      "Sha256": "5ED423D7C65DABE6A58529B041481F85129898824FA149EB7EF8E666D0824989",
+      "Length": 26597
+    },
+    {
+      "Path": "Suites/miroon.git/lib/net10.0/Miroon.Module.Git.dll",
+      "Sha256": "0ACB6213BE069835EB40E7B4A7B89D6110A515CE57104D563DD5F0D477340BD1",
+      "Length": 44544
+    },
+    {
+      "Path": "Suites/miroon.git/lib/net10.0/MiroonEngine.Graphics2D.dll",
+      "Sha256": "EF5988D080BE26E76F26D71EDB5EDD78BD008BE4C8E85FBFED471C5A6AD8905F",
+      "Length": 56320
+    },
+    {
+      "Path": "Suites/miroon.git/lib/net10.0/MiroonEngine.Render.Vulkan.dll",
+      "Sha256": "438DA227A49B9BDF51122A518B3B1518E2667F395E3CE70BE4BD6ABC8A139391",
+      "Length": 94208
+    },
+    {
+      "Path": "Suites/miroon.git/lib/net10.0/MiroonEngine.Text.dll",
+      "Sha256": "87ECB44F8A2E353F5F65DBCD7D594FB4C32C462F9EC799D7DF71B80E55143E21",
+      "Length": 49152
+    },
+    {
+      "Path": "Suites/miroon.git/lib/net10.0/MiroonEngine.dll",
+      "Sha256": "334E5AB0AFE13E4A3985FA563440E5B0D7289120DF49208F78EBB4C70D86421C",
+      "Length": 99840
+    },
+    {
+      "Path": "Suites/miroon.git/lib/net10.0/MiroonUI.dll",
+      "Sha256": "B817BFC759D3DD93E7D569D87E4ACB57C0CB3920282562763D8B65383734DD9D",
+      "Length": 64000
+    },
+    {
+      "Path": "Suites/miroon.git/miroon.suite.json",
+      "Sha256": "C5A53E68756D33DD400F54986A388FCE1C0A0A0F3A2962805DCC27FC090B36CB",
+      "Length": 332
+    },
+    {
+      "Path": "Suites/miroon.latex/Miroon.Module.LaTeX.nuspec",
+      "Sha256": "CD654944DF942A786E1AE08A79FB58FF752F9E39268B9C0BBD2B674CF4D491D1",
+      "Length": 771
+    },
+    {
+      "Path": "Suites/miroon.latex/catalog/catalog.v1.json",
+      "Sha256": "9AD5B7C74CA9FDAA23B27E36CDFE422AF2B30CBC56ADC3B5E96CE1DF07ED60BB",
+      "Length": 339
+    },
+    {
+      "Path": "Suites/miroon.latex/catalog/contributions.v1.json",
+      "Sha256": "3AF622C0A98E7F13DA1FFF62138A34C7E083AC424692439F55276C8C8D62C58F",
+      "Length": 4065
+    },
+    {
+      "Path": "Suites/miroon.latex/catalog/localization.en-US.v1.json",
+      "Sha256": "C5361F1E664F277E1CAD35EA1BCA01EFE6403A53962ACD8652582CB57D4B2665",
+      "Length": 1933
+    },
+    {
+      "Path": "Suites/miroon.latex/catalog/localization.zh-Hans.v1.json",
+      "Sha256": "EE982B8D5C5627A21ED5969EFF660798EBC69DCBAD513636CB70BDA3120FBDBB",
+      "Length": 2263
+    },
+    {
+      "Path": "Suites/miroon.latex/catalog/source-map.v1.json",
+      "Sha256": "84DBC0C5DCA0D389AD284163E68D8B45277A03CB4E5E44E8758BF57A1ADC5C5A",
+      "Length": 436
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/HarfBuzzSharp.dll",
+      "Sha256": "3981A2069837301E1A8CF8065C53A08AA9AB0DEB79D764B925B4BF22781273B2",
+      "Length": 130912
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Microsoft.DotNet.PlatformAbstractions.dll",
+      "Sha256": "B1F4AD169FB192747F5D2D3111C01DB4257E3EC1F7F18F301F7FC4BE3B869FF3",
+      "Length": 23424
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Microsoft.Extensions.DependencyModel.dll",
+      "Sha256": "48CB00C7CB7DEBE78133F435D66DFE92C951897C608B58FB993D73254D0973AC",
+      "Length": 85280
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Miroon.IDE.SDK.dll",
+      "Sha256": "9595C9D9A56F31FE3CD41D8B1C2BF196FE707CD73A92C074EC4F108ACE3BE6E7",
+      "Length": 114688
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Miroon.IDE.UI.SDK.dll",
+      "Sha256": "0862852653B9461DF364B7DE13FC6E3CDCC628FE48309DC8BE957B63AD764B0F",
+      "Length": 50176
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Miroon.Module.LaTeX.deps.json",
+      "Sha256": "B5632F05E63C055EB620B84A543318D6C6F183C91FCE14DFF03E67FEA83FB446",
+      "Length": 26638
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Miroon.Module.LaTeX.dll",
+      "Sha256": "B1A6CA8B9B95CD83171CAAF2A7DBDFA891E59D6C0C3632DA190D2777ED457A0F",
+      "Length": 111104
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/MiroonEngine.Graphics2D.dll",
+      "Sha256": "EF5988D080BE26E76F26D71EDB5EDD78BD008BE4C8E85FBFED471C5A6AD8905F",
+      "Length": 56320
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/MiroonEngine.Render.Vulkan.dll",
+      "Sha256": "438DA227A49B9BDF51122A518B3B1518E2667F395E3CE70BE4BD6ABC8A139391",
+      "Length": 94208
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/MiroonEngine.Text.dll",
+      "Sha256": "87ECB44F8A2E353F5F65DBCD7D594FB4C32C462F9EC799D7DF71B80E55143E21",
+      "Length": 49152
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/MiroonEngine.dll",
+      "Sha256": "334E5AB0AFE13E4A3985FA563440E5B0D7289120DF49208F78EBB4C70D86421C",
+      "Length": 99840
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/MiroonRender.dll",
+      "Sha256": "7587897F7D19A1150120DE3CAC56AD5A1EED7235AE138E2FB8B589D5814EE9F2",
+      "Length": 377344
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/MiroonUI.dll",
+      "Sha256": "B817BFC759D3DD93E7D569D87E4ACB57C0CB3920282562763D8B65383734DD9D",
+      "Length": 64000
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Silk.NET.Core.dll",
+      "Sha256": "56E4A018BD9A4E0FB94F97331191DB7E86AF98B0E23082EA36863F146E217A5C",
+      "Length": 310032
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Silk.NET.GLFW.dll",
+      "Sha256": "9C3C71D2FE0B01BB4FD00E7047001B99DB8869384B7BA6B9750F389EECE224DC",
+      "Length": 84752
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Silk.NET.Input.Common.dll",
+      "Sha256": "4979F2A0AFD682E740C247FB103CDD8368D87381728CF633D3BFA4515C0289D1",
+      "Length": 41232
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Silk.NET.Input.Glfw.dll",
+      "Sha256": "43D615B40D28824C7B7EB488E2B891A09ED6353DD3D0D73A366C67ABE8B5270E",
+      "Length": 49424
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Silk.NET.Maths.dll",
+      "Sha256": "C3B2B856435A1824F21D0467241F7EF7929980FC11A61D651166CE60828475EB",
+      "Length": 324368
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Silk.NET.Vulkan.Extensions.KHR.dll",
+      "Sha256": "BE226E227F8695B714DB140D5F267760C69B2D64A929B10E3D29D2787DD6EDF7",
+      "Length": 445712
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Silk.NET.Vulkan.dll",
+      "Sha256": "5A56F1FE4DB712091B6DB94E16B6F7E71049027E48F0EE72E001846F1D7A5F45",
+      "Length": 3251984
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Silk.NET.Windowing.Common.dll",
+      "Sha256": "7C80870D5135714DC30EFA71E4ADB0DE9A8C699602CD7E5409D6B21EAA5FAD21",
+      "Length": 54032
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/Silk.NET.Windowing.Glfw.dll",
+      "Sha256": "62D66480FF7E9973A231C5898E7C293D814558E5E156F59898BA41DB2B98F4A8",
+      "Length": 41744
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/SkiaSharp.HarfBuzz.dll",
+      "Sha256": "13535F2F25C2CAA8421A94DBCD5D0C71AEC7C79E6F6F0B1B614BBC8926CFC73A",
+      "Length": 24928
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/SkiaSharp.dll",
+      "Sha256": "948B5569F2BCD47D4511A465091DBD00BF941EE0F8F3C495D511F5A2FF0703CA",
+      "Length": 526176
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/runtimes/win-x64/native/glfw3.dll",
+      "Sha256": "A107A8E8378527897D5E99F3A53D01A7289EF5FDA564952FBEC2769386ECCD58",
+      "Length": 232960
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll",
+      "Sha256": "605D533007E484B65D48D36E1941D34426AE601FF28A3795795641086E93E935",
+      "Length": 2038112
+    },
+    {
+      "Path": "Suites/miroon.latex/lib/net10.0/runtimes/win-x64/native/libSkiaSharp.dll",
+      "Sha256": "C8770C219E0D3CD9BB119FAD46F2D00AE1855B11315816E86E909E3332826212",
+      "Length": 12254048
+    },
+    {
+      "Path": "Suites/miroon.latex/miroon.suite.json",
+      "Sha256": "D2B37C78990BBD784589A563C729A1A11F877B9EC2E55767EA1E64E4780AD9A3",
+      "Length": 329
+    },
+    {
+      "Path": "Suites/miroon.markdown/Miroon.Module.Markdown.nuspec",
+      "Sha256": "DCC22BCB0F53F8508EAB5C107BF915DEBD11E34A2AA144241B5E2A698124D83A",
+      "Length": 777
+    },
+    {
+      "Path": "Suites/miroon.markdown/catalog/catalog.v1.json",
+      "Sha256": "E8C1A90CDA2CAF785AEAECF048B16AB107D448DB10FC8061BD033199D916B630",
+      "Length": 342
+    },
+    {
+      "Path": "Suites/miroon.markdown/catalog/contributions.v1.json",
+      "Sha256": "3F186646B5F6D6A694DA63257658431A305182BFF5E03D21BF93E5A967D8D5F1",
+      "Length": 844
+    },
+    {
+      "Path": "Suites/miroon.markdown/catalog/localization.en-US.v1.json",
+      "Sha256": "CC666C219626C076556D72B11D21517A5B7EF3F637176C7E370F1169DF5C8226",
+      "Length": 233
+    },
+    {
+      "Path": "Suites/miroon.markdown/catalog/localization.zh-Hans.v1.json",
+      "Sha256": "CA7AC090E841FE4E5C16F0552FF371E63CCEC5010CF4018FD0678F358B788E16",
+      "Length": 248
+    },
+    {
+      "Path": "Suites/miroon.markdown/catalog/source-map.v1.json",
+      "Sha256": "D0152863AB9E9415D6543B76456965D014D62E925F29B3E39E199DC822BBB5DD",
+      "Length": 262
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/HarfBuzzSharp.dll",
+      "Sha256": "3981A2069837301E1A8CF8065C53A08AA9AB0DEB79D764B925B4BF22781273B2",
+      "Length": 130912
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Markdig.dll",
+      "Sha256": "6231C6A7216466CBE7FDEAB7463A30ED29275CF90042BA64B49E1205D45E7EB5",
+      "Length": 493056
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Microsoft.DotNet.PlatformAbstractions.dll",
+      "Sha256": "B1F4AD169FB192747F5D2D3111C01DB4257E3EC1F7F18F301F7FC4BE3B869FF3",
+      "Length": 23424
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Microsoft.Extensions.DependencyModel.dll",
+      "Sha256": "48CB00C7CB7DEBE78133F435D66DFE92C951897C608B58FB993D73254D0973AC",
+      "Length": 85280
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Miroon.IDE.SDK.dll",
+      "Sha256": "9595C9D9A56F31FE3CD41D8B1C2BF196FE707CD73A92C074EC4F108ACE3BE6E7",
+      "Length": 114688
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Miroon.IDE.UI.SDK.dll",
+      "Sha256": "0862852653B9461DF364B7DE13FC6E3CDCC628FE48309DC8BE957B63AD764B0F",
+      "Length": 50176
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Miroon.Module.Markdown.deps.json",
+      "Sha256": "F3A1169D2042F7321CE0002A989C1D39935628C252345FD0F72254E458AA86E7",
+      "Length": 27163
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Miroon.Module.Markdown.dll",
+      "Sha256": "5640C6E7EF2AB96CA2651DD855EBCA70E13FC05ABA52FA18BFD4674520DF48E3",
+      "Length": 93184
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/MiroonEngine.Graphics2D.dll",
+      "Sha256": "EF5988D080BE26E76F26D71EDB5EDD78BD008BE4C8E85FBFED471C5A6AD8905F",
+      "Length": 56320
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/MiroonEngine.Render.Vulkan.dll",
+      "Sha256": "438DA227A49B9BDF51122A518B3B1518E2667F395E3CE70BE4BD6ABC8A139391",
+      "Length": 94208
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/MiroonEngine.Text.dll",
+      "Sha256": "87ECB44F8A2E353F5F65DBCD7D594FB4C32C462F9EC799D7DF71B80E55143E21",
+      "Length": 49152
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/MiroonEngine.dll",
+      "Sha256": "334E5AB0AFE13E4A3985FA563440E5B0D7289120DF49208F78EBB4C70D86421C",
+      "Length": 99840
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/MiroonRender.dll",
+      "Sha256": "7587897F7D19A1150120DE3CAC56AD5A1EED7235AE138E2FB8B589D5814EE9F2",
+      "Length": 377344
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/MiroonUI.dll",
+      "Sha256": "B817BFC759D3DD93E7D569D87E4ACB57C0CB3920282562763D8B65383734DD9D",
+      "Length": 64000
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Silk.NET.Core.dll",
+      "Sha256": "56E4A018BD9A4E0FB94F97331191DB7E86AF98B0E23082EA36863F146E217A5C",
+      "Length": 310032
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Silk.NET.GLFW.dll",
+      "Sha256": "9C3C71D2FE0B01BB4FD00E7047001B99DB8869384B7BA6B9750F389EECE224DC",
+      "Length": 84752
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Silk.NET.Input.Common.dll",
+      "Sha256": "4979F2A0AFD682E740C247FB103CDD8368D87381728CF633D3BFA4515C0289D1",
+      "Length": 41232
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Silk.NET.Input.Glfw.dll",
+      "Sha256": "43D615B40D28824C7B7EB488E2B891A09ED6353DD3D0D73A366C67ABE8B5270E",
+      "Length": 49424
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Silk.NET.Maths.dll",
+      "Sha256": "C3B2B856435A1824F21D0467241F7EF7929980FC11A61D651166CE60828475EB",
+      "Length": 324368
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Silk.NET.Vulkan.Extensions.KHR.dll",
+      "Sha256": "BE226E227F8695B714DB140D5F267760C69B2D64A929B10E3D29D2787DD6EDF7",
+      "Length": 445712
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Silk.NET.Vulkan.dll",
+      "Sha256": "5A56F1FE4DB712091B6DB94E16B6F7E71049027E48F0EE72E001846F1D7A5F45",
+      "Length": 3251984
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Silk.NET.Windowing.Common.dll",
+      "Sha256": "7C80870D5135714DC30EFA71E4ADB0DE9A8C699602CD7E5409D6B21EAA5FAD21",
+      "Length": 54032
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/Silk.NET.Windowing.Glfw.dll",
+      "Sha256": "62D66480FF7E9973A231C5898E7C293D814558E5E156F59898BA41DB2B98F4A8",
+      "Length": 41744
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/SkiaSharp.HarfBuzz.dll",
+      "Sha256": "13535F2F25C2CAA8421A94DBCD5D0C71AEC7C79E6F6F0B1B614BBC8926CFC73A",
+      "Length": 24928
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/SkiaSharp.dll",
+      "Sha256": "948B5569F2BCD47D4511A465091DBD00BF941EE0F8F3C495D511F5A2FF0703CA",
+      "Length": 526176
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/runtimes/win-x64/native/glfw3.dll",
+      "Sha256": "A107A8E8378527897D5E99F3A53D01A7289EF5FDA564952FBEC2769386ECCD58",
+      "Length": 232960
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll",
+      "Sha256": "605D533007E484B65D48D36E1941D34426AE601FF28A3795795641086E93E935",
+      "Length": 2038112
+    },
+    {
+      "Path": "Suites/miroon.markdown/lib/net10.0/runtimes/win-x64/native/libSkiaSharp.dll",
+      "Sha256": "C8770C219E0D3CD9BB119FAD46F2D00AE1855B11315816E86E909E3332826212",
+      "Length": 12254048
+    },
+    {
+      "Path": "Suites/miroon.markdown/miroon.suite.json",
+      "Sha256": "CA432B3EA40B37916CAE498BD269EC8EA97B081B96CDFC2DCAC0771DAE81997D",
+      "Length": 311
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/Miroon.Suite.Researcher.nuspec",
+      "Sha256": "2A7441229D6DAF2DA6DF57556730E420E8DEB33B06803AB90895751A071A2008",
+      "Length": 723
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/catalog/catalog.v1.json",
+      "Sha256": "BD9AB5CC1997DCF844D4134DC9159050984DA55684354A5728AAB8B5350F0881",
+      "Length": 350
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/catalog/contributions.v1.json",
+      "Sha256": "69DF03020F7E94784617429D8CA975BE96E206F25871777EEFD822D5ADFEB3EB",
+      "Length": 312
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/catalog/localization.en-US.v1.json",
+      "Sha256": "92B1EB414D938BBA3FB45837C5FBF7BFFF52E38815025E96B35DC0BE90D4BE46",
+      "Length": 189
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/catalog/localization.zh-Hans.v1.json",
+      "Sha256": "D4A807D1705A0010F51C3D3660CF09E37CD8E2BE001003294F444E91582B63D9",
+      "Length": 199
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/catalog/source-map.v1.json",
+      "Sha256": "12125DCE32E078033C831F5F9830E33E99FC148658F999D0E0A3FC85E819E9CF",
+      "Length": 268
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/lib/net10.0/Miroon.IDE.SDK.dll",
+      "Sha256": "9595C9D9A56F31FE3CD41D8B1C2BF196FE707CD73A92C074EC4F108ACE3BE6E7",
+      "Length": 114688
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/lib/net10.0/Miroon.IDE.UI.SDK.dll",
+      "Sha256": "0862852653B9461DF364B7DE13FC6E3CDCC628FE48309DC8BE957B63AD764B0F",
+      "Length": 50176
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/lib/net10.0/Miroon.Suite.Researcher.deps.json",
+      "Sha256": "2CEFAB134840FD6836E7437095AFF37D6DABB44362B6B558EFF48DC5F5F37093",
+      "Length": 26615
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/lib/net10.0/Miroon.Suite.Researcher.dll",
+      "Sha256": "40808516B5420D0CE8CC398A7F50C4E2207256F6027FCF5C68950E84835B8FA7",
+      "Length": 8704
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/lib/net10.0/MiroonEngine.Graphics2D.dll",
+      "Sha256": "EF5988D080BE26E76F26D71EDB5EDD78BD008BE4C8E85FBFED471C5A6AD8905F",
+      "Length": 56320
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/lib/net10.0/MiroonEngine.Render.Vulkan.dll",
+      "Sha256": "438DA227A49B9BDF51122A518B3B1518E2667F395E3CE70BE4BD6ABC8A139391",
+      "Length": 94208
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/lib/net10.0/MiroonEngine.Text.dll",
+      "Sha256": "87ECB44F8A2E353F5F65DBCD7D594FB4C32C462F9EC799D7DF71B80E55143E21",
+      "Length": 49152
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/lib/net10.0/MiroonEngine.dll",
+      "Sha256": "334E5AB0AFE13E4A3985FA563440E5B0D7289120DF49208F78EBB4C70D86421C",
+      "Length": 99840
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/lib/net10.0/MiroonUI.dll",
+      "Sha256": "B817BFC759D3DD93E7D569D87E4ACB57C0CB3920282562763D8B65383734DD9D",
+      "Length": 64000
+    },
+    {
+      "Path": "Suites/miroon.suite.researcher/miroon.suite.json",
+      "Sha256": "99FE0CEAABAD8ABD6DA9B93E96E269B23D4040656F9DEA9C5080CEED5215B14A",
+      "Length": 341
+    },
+    {
+      "Path": "System.Security.Cryptography.Pkcs.dll",
+      "Sha256": "D8E4B733FBAEC1FE0E808FD6391479F190B170DF03E309C5F07DC85445447D22",
+      "Length": 319784
+    },
+    {
+      "Path": "System.Security.Cryptography.ProtectedData.dll",
+      "Sha256": "5E04D6CFF3B6FE9706908970CD594861F0C08B3824F7827B2331B5F4FCEE1BD1",
+      "Length": 36616
+    },
+    {
+      "Path": "candidate-manifest.json",
+      "Sha256": "21FE04AE277E9D60F3286AD4D3C9FA6C9CFB0547FB55EBFBBF27244344CD58A0",
+      "Length": 1137
+    },
+    {
+      "Path": "glfw3.dll",
+      "Sha256": "A107A8E8378527897D5E99F3A53D01A7289EF5FDA564952FBEC2769386ECCD58",
+      "Length": 232960
+    },
+    {
+      "Path": "libHarfBuzzSharp.dll",
+      "Sha256": "605D533007E484B65D48D36E1941D34426AE601FF28A3795795641086E93E935",
+      "Length": 2038112
+    },
+    {
+      "Path": "libSkiaSharp.dll",
+      "Sha256": "C8770C219E0D3CD9BB119FAD46F2D00AE1855B11315816E86E909E3332826212",
+      "Length": 12254048
+    }
+  ],
+  "Packages": [
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonResearcher/0.2.0-alpha.3/win-x64/E12AF5649CA2B9533AF52516A5BA50E07598BA08B7ECEE7345C5F85ECE6F2415.zip",
+      "Sha256": "E12AF5649CA2B9533AF52516A5BA50E07598BA08B7ECEE7345C5F85ECE6F2415",
+      "Length": 61569739
+    }
+  ]
+}

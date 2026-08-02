@@ -3,7 +3,7 @@
   "Signatures": [
     {
       "KeyId": "alpha-root-2026",
-      "SignatureBase64": "U40Ge85tpufOrYqW3RcFwnvDgC8yVXuLJxiyIyVQk/paCnMI1q1LFWGchQgn078UzpBogxL0rjSRHMQQAciwSw=="
+      "SignatureBase64": "XN13Mw3yLNsSa9y9gwX13JmwAD4sq80BfijgnePsHMuEmWcINYvLsq6C5RMKfgN73Yfvole/Wu1\u002BzTIZ54bMAg=="
     }
   ]
 }
