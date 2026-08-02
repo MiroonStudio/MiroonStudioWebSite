@@ -1,7 +1,7 @@
 {
   "Type": "catalog",
-  "Sequence": 2026080201,
-  "ExpiresUtc": "2026-09-01T08:02:05.4476296+00:00",
+  "Sequence": 2026080202,
+  "ExpiresUtc": "2026-09-01T09:05:10.783745+00:00",
   "Releases": [
     {
       "ProductId": "MiroonEngine",
@@ -11,6 +11,17 @@
         "Path": "releases/MiroonEngine/43FEF034996A00A0588BC5D864143625595F52E47BD228A78912A6505F342D34.json",
         "Sha256": "B96262589654C059A874BAC8324B1BA873D00A2D5465A2B0C56F3D3DD52A37A9",
         "Length": 1830
+      },
+      "Rid": "win-x64"
+    },
+    {
+      "ProductId": "MiroonEngine",
+      "Version": "0.1.1-alpha.8",
+      "ReleaseHash": "2B9F07618DEE6976F8CA7013E378D86F1267B74C38D44CB26F5DF461B8102B81",
+      "Manifest": {
+        "Path": "releases/MiroonEngine/2B9F07618DEE6976F8CA7013E378D86F1267B74C38D44CB26F5DF461B8102B81.json",
+        "Sha256": "67B9B2ACFB60ACB16534A03D338C1F52604E1F89B8A8E57B0E099E552E0CE666",
+        "Length": 1998
       },
       "Rid": "win-x64"
     },
@@ -27,12 +38,23 @@
     },
     {
       "ProductId": "MiroonNexus",
-      "Version": "0.1.1-alpha.7",
-      "ReleaseHash": "5CA14D241A668FEAD02F442D5FBBC1E8EFE8076A3F911B86BB89E62793644E95",
+      "Version": "0.1.1-alpha.8",
+      "ReleaseHash": "F9939DCAEB36D05A941901B2FAB0F63C917084C67D1AD3A09212FE543F7573A7",
       "Manifest": {
-        "Path": "releases/MiroonNexus/5CA14D241A668FEAD02F442D5FBBC1E8EFE8076A3F911B86BB89E62793644E95.json",
-        "Sha256": "10E083FBEC66D9004460788C932E77B16D597D876C296F1DD9235285C4A0E628",
+        "Path": "releases/MiroonNexus/F9939DCAEB36D05A941901B2FAB0F63C917084C67D1AD3A09212FE543F7573A7.json",
+        "Sha256": "F750578FF62015921A0A0481BC607C91D71DD541530E5D01B9CADBA8D5152976",
         "Length": 1686
+      },
+      "Rid": "win-x64"
+    },
+    {
+      "ProductId": "MiroonRender",
+      "Version": "0.1.1-alpha.8",
+      "ReleaseHash": "CEC9F8578A632D690120EEB9FD4DB64D836280F265C102FF885D440A665DE27A",
+      "Manifest": {
+        "Path": "releases/MiroonRender/CEC9F8578A632D690120EEB9FD4DB64D836280F265C102FF885D440A665DE27A.json",
+        "Sha256": "C1FFDC157B16A90502B4F811D3B09B30C602176775273DA756F0D96F67250599",
+        "Length": 746
       },
       "Rid": "win-x64"
     },
@@ -109,6 +131,17 @@
       "Manifest": {
         "Path": "releases/MiroonUI/7A6574C150579848B3E03A44019C53A343052D0045385E5B181555D436E7B989.json",
         "Sha256": "267B00F467FEA939AF12185C18D8A610DCD07F587923EE2504D28850F25A1E0A",
+        "Length": 871
+      },
+      "Rid": "win-x64"
+    },
+    {
+      "ProductId": "MiroonUI",
+      "Version": "0.1.1-alpha.8",
+      "ReleaseHash": "9D7F84607504A06262B3017F704B110FAF7C89618EBE366F52590E7D5CAF4DF4",
+      "Manifest": {
+        "Path": "releases/MiroonUI/9D7F84607504A06262B3017F704B110FAF7C89618EBE366F52590E7D5CAF4DF4.json",
+        "Sha256": "017C25AF94D0CFC7938748B9A664E0419EBB0C894CAC1E23CAFCE05F3F7EF4EA",
         "Length": 871
       },
       "Rid": "win-x64"

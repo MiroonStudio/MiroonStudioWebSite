@@ -1,0 +1,18 @@
+{
+  "Type": "release-notes",
+  "ProductId": "MiroonNexus",
+  "Version": "0.1.1-alpha.8",
+  "ReleaseHash": "F9939DCAEB36D05A941901B2FAB0F63C917084C67D1AD3A09212FE543F7573A7",
+  "Summary": "Nexus now reports the verified missing download size for each product update.",
+  "Changes": [
+    "Product cards show the bytes missing from the verified local package store instead of the complete installed size.",
+    "Missing bytes are recalculated after catalog refresh, retry, install, and cache cleanup.",
+    "Product lifecycle handling no longer blocks the main window while companion processes are being reconciled."
+  ],
+  "CompatibilityNotes": [
+    "This is a test-signed Preview build and retains the current product and cache identities."
+  ],
+  "MigrationNotes": [
+    "Existing installations, activations, rollback state, and package cache remain valid."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Type": "release",
+  "ProductId": "MiroonUI",
+  "Version": "0.1.1-alpha.8",
+  "ReleaseHash": "9D7F84607504A06262B3017F704B110FAF7C89618EBE366F52590E7D5CAF4DF4",
+  "Rid": "win-x64",
+  "EntryPoint": "MiroonUI.dll",
+  "Dependencies": [
+    {
+      "ProductId": "MiroonEngine",
+      "ReleaseHash": "2B9F07618DEE6976F8CA7013E378D86F1267B74C38D44CB26F5DF461B8102B81"
+    }
+  ],
+  "Files": [
+    {
+      "Path": "MiroonUI.dll",
+      "Sha256": "0CFDC442625D66BF7F512C8CC1CBFCD5A75BF46E60CFA43DBB866B1972E5AF16",
+      "Length": 62976
+    }
+  ],
+  "Packages": [
+    {
+      "Url": "https://www.miroonstudio.cn/nexus/v1/packages/MiroonUI/0.1.1-alpha.8/win-x64/BE64E2C482C2CC10D85D21092273311E3194B8C49EB656C2E2341351B53A62B1.zip",
+      "Sha256": "BE64E2C482C2CC10D85D21092273311E3194B8C49EB656C2E2341351B53A62B1",
+      "Length": 27349
+    }
+  ]
+}

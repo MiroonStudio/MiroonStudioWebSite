@@ -1,0 +1,10 @@
+{
+  "Type": "release-notes",
+  "ProductId": "MiroonRender",
+  "Version": "0.1.1-alpha.8",
+  "ReleaseHash": "CEC9F8578A632D690120EEB9FD4DB64D836280F265C102FF885D440A665DE27A",
+  "Summary": "MiroonRender 0.1.1-alpha.8",
+  "Changes": [],
+  "CompatibilityNotes": [],
+  "MigrationNotes": []
+}

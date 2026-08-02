@@ -4,6 +4,9 @@
   "Rid": "win-x64",
   "ReleaseHash": "43FEF034996A00A0588BC5D864143625595F52E47BD228A78912A6505F342D34",
   "PackagePath": "packages/MiroonEngine/0.1.1-alpha.5/win-x64/393EE3ACADE1B035B9BE67B946D2BF29FF3AD2CA8F80E72A4B32BA432310B24C.zip",
+  "PackagePaths": [
+    "packages/MiroonEngine/0.1.1-alpha.5/win-x64/393EE3ACADE1B035B9BE67B946D2BF29FF3AD2CA8F80E72A4B32BA432310B24C.zip"
+  ],
   "ReleaseManifestPath": "releases/MiroonEngine/43FEF034996A00A0588BC5D864143625595F52E47BD228A78912A6505F342D34.json",
   "PublicKeyPath": "test-root-public.json",
   "TestOnly": true

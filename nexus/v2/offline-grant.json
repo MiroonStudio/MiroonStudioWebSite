@@ -2,9 +2,13 @@
   "Type": "offline-grant",
   "SchemaVersion": 1,
   "Rid": "win-x64",
-  "CreatedUtc": "2026-08-02T08:02:18.4470007+00:00",
-  "ExpiresUtc": "2026-09-01T08:02:05.4476296+00:00",
+  "CreatedUtc": "2026-08-02T09:05:26.0287948+00:00",
+  "ExpiresUtc": "2026-09-01T09:05:10.783745+00:00",
   "Releases": [
+    {
+      "ProductId": "MiroonEngine",
+      "ReleaseHash": "2B9F07618DEE6976F8CA7013E378D86F1267B74C38D44CB26F5DF461B8102B81"
+    },
     {
       "ProductId": "MiroonEngine",
       "ReleaseHash": "43FEF034996A00A0588BC5D864143625595F52E47BD228A78912A6505F342D34"
@@ -15,11 +19,15 @@
     },
     {
       "ProductId": "MiroonNexus",
-      "ReleaseHash": "5CA14D241A668FEAD02F442D5FBBC1E8EFE8076A3F911B86BB89E62793644E95"
+      "ReleaseHash": "F9939DCAEB36D05A941901B2FAB0F63C917084C67D1AD3A09212FE543F7573A7"
     },
     {
       "ProductId": "MiroonRender",
       "ReleaseHash": "10FDEE32B959A7C7FEBF6912A0C29E0585DFD8810E5015F27B0EB8DECD788E41"
+    },
+    {
+      "ProductId": "MiroonRender",
+      "ReleaseHash": "CEC9F8578A632D690120EEB9FD4DB64D836280F265C102FF885D440A665DE27A"
     },
     {
       "ProductId": "MiroonResearcher",
@@ -44,6 +52,10 @@
     {
       "ProductId": "MiroonUI",
       "ReleaseHash": "7A6574C150579848B3E03A44019C53A343052D0045385E5B181555D436E7B989"
+    },
+    {
+      "ProductId": "MiroonUI",
+      "ReleaseHash": "9D7F84607504A06262B3017F704B110FAF7C89618EBE366F52590E7D5CAF4DF4"
     }
   ]
 }
